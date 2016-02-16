@@ -1,0 +1,256 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"app",
+				"approval_number_split"
+			],
+			[
+				"with",
+				"with_empty"
+			],
+			[
+				"nu",
+				"numbers"
+			],
+			[
+				"s",
+				"shifted_forward"
+			],
+			[
+				"data",
+				"data_copy"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "cofin_separate_approval_numbers.py",
+			"settings":
+			{
+				"buffer_size": 1204,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "data_files/data_dump_cofinanced_loans-grants.csv",
+			"settings":
+			{
+				"buffer_size": 162819,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 306.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/erik/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/erik/Code/OCO/cofin_clean-up.py",
+		"/home/erik/Code/OCO/scratch.py",
+		"/home/erik/Code/OCO/OCO.sublime-workspace",
+		"/home/erik/Code/OCO/cofin_ta_grant_null_approval_number.py",
+		"/home/erik/Code/OCO/ta_describe.py",
+		"/home/erik/Code/OCO/loan_grants_describe.py",
+		"/home/erik/Code/OCO/data_files/cofin_grants_loan_from_2007_without_null.csv",
+		"/home/erik/Code/OCO/data_files/cofin_grants_loan_from_2007.csv",
+		"/home/erik/Code/OCO/loan_grants_extract_rows_with_null.py",
+		"/home/erik/Code/OCO/loan_grants_extract_2007_to_current.py",
+		"/home/erik/Code/OCO/data_files/cofin_grants_loans.csv",
+		"/media/erik/Data/Dropbox/Code/OCO/data_files/cofin_grants_loans.csv",
+		"/media/erik/Data/Dropbox/Code/OCO/loan_grants_correct_integer.py",
+		"/media/erik/Data/Dropbox/Code/OCO/open_csv_template.py",
+		"/media/erik/Data/Dropbox/Code/OCO/data_files/cofin_ta_from_2007_with_null.csv",
+		"/media/erik/Data/Dropbox/Code/OCO/ta_with_null.py",
+		"/media/erik/Data/Dropbox/Code/OCO/loan_grants_extract_rows_with_null.py",
+		"/media/erik/Data/Dropbox/Code/OCO/ta_extract_2007_to_current.py",
+		"/media/erik/Data/Dropbox/Code/OCO/loan_grants_extract_2007_to_current.py",
+		"/media/erik/Data/Dropbox/Code/OCO/data_files/cofin_ta.csv",
+		"/media/erik/Data/Dropbox/Code/OCO/test.py",
+		"/media/erik/Data/Dropbox/Code/OCO/extract_rows_with_slash.py",
+		"/media/erik/Data/Dropbox/Code/datascience/oco",
+		"/media/erik/Data/Dropbox/Code/OCO/extract_rows_with_null.py",
+		"/home/erik/Code/OCO/extract_rows_with_null.py",
+		"/home/erik/Code/OCO/open_csv_template.py",
+		"/home/erik/Code/datascience/shitf_example.py",
+		"/home/erik/Code/datascience/sample_data.csv",
+		"/home/erik/Code/datascience/weather_underground.csv",
+		"/home/erik/Code/datascience/pandas_intro.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "cofin_separate_approval_numbers.py",
+					"settings":
+					{
+						"buffer_size": 1204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								760,
+								760
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "data_files/data_dump_cofinanced_loans-grants.csv",
+					"settings":
+					{
+						"buffer_size": 162819,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 453.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 437.0,
+	"status_bar_visible": true
+}
