@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"appr",
+				"approval_number_split"
+			],
+			[
 				"app",
 				"approval_number_split"
 			],
@@ -31,7 +35,7 @@
 			"file": "cofin_separate_approval_numbers.py",
 			"settings":
 			{
-				"buffer_size": 1204,
+				"buffer_size": 1662,
 				"line_ending": "Unix"
 			}
 		},
@@ -39,7 +43,7 @@
 			"file": "data_files/data_dump_cofinanced_loans-grants.csv",
 			"settings":
 			{
-				"buffer_size": 162819,
+				"buffer_size": 162825,
 				"line_ending": "Unix"
 			}
 		}
@@ -68,9 +72,11 @@
 	},
 	"file_history":
 	[
+		"/home/erik/Code/OCO/scratch.py",
+		"/home/erik/Code/OCO/data_files/test_data.csv",
+		"/home/erik/Code/OCO/data_files/data_dump_cofinanced_loans-grants.csv",
 		"/home/erik/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
 		"/home/erik/Code/OCO/cofin_clean-up.py",
-		"/home/erik/Code/OCO/scratch.py",
 		"/home/erik/Code/OCO/OCO.sublime-workspace",
 		"/home/erik/Code/OCO/cofin_ta_grant_null_approval_number.py",
 		"/home/erik/Code/OCO/ta_describe.py",
@@ -133,7 +139,6 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
 				{
@@ -141,23 +146,24 @@
 					"file": "cofin_separate_approval_numbers.py",
 					"settings":
 					{
-						"buffer_size": 1204,
+						"buffer_size": 1662,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								760,
-								760
+								1613,
+								1613
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.tmLanguage"
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 360.0,
+						"translation.y": 415.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -167,15 +173,15 @@
 					"file": "data_files/data_dump_cofinanced_loans-grants.csv",
 					"settings":
 					{
-						"buffer_size": 162819,
+						"buffer_size": 162825,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								30,
+								30
 							]
 						],
 						"settings":
@@ -224,7 +230,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 453.0
+		"height": 439.0
 	},
 	"replace":
 	{
