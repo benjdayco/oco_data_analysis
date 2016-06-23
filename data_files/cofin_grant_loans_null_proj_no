@@ -1,0 +1,753 @@
+,Partner,Year,Approval Numbers CoFin,Proj No,Country Mnemonic,Loan/Grant Title,Department,Division,Approval,OCR,ADF Loan,ADF Grant,SF,Total,Grants,Loans,Commercial,Total CF
+31,Australia,1976,0289,,SOL,Beef Cattle Development,PARD,,12/21/1976,,,,,0.0,,1.54,,1.54
+32,Australia,1977,0334/8009,,NEP,Sagarnath Forestry Development,SARD,SAAE,12/20/1977,,,,,0.0,0.46,,,0.46
+33,Australia,1978,0372,,MAL,Trengganu Hydropower,SERD,SEID,12/05/1978,,,,,0.0,,4.5,,4.5
+34,Australia,1979,0445,,NEP,Livestock Development,SARD,SAAE,12/19/1979,,,,,0.0,,0.89,,0.89
+35,Australia,1980,0485,,SAM,Agricultural Development,PARD,,11/27/1980,,,,,0.0,,2.0,,2.0
+36,Australia,1983,0646,,SOL,Agricultural Development,PARD,,10/29/1983,,,,,0.0,,2.0,,2.0
+37,Australia,1986,0786,,KIR,Tarawa Power,PARD,PAHQ,08/21/1986,,,,,0.0,0.16,,,0.16
+38,Australia,1990,1031,,COO,Outer Islands Telecommunications,PARD,,09/20/1990,,,,,0.0,,2.7,,2.7
+39,Australia,1992,1183,,SRI,Participatory Forestry,SARD,SAAE,11/05/1992,,,,,0.0,3.87,,,3.87
+40,Australia,1993,1225,,PNG,Population and Family Planning,PARD,,04/01/1993,,,,,0.0,10.0,,,10.0
+41,Australia,1994,1331,,PHI,Women's Health & Safe Motherhood,SERD,SESS,11/10/1994,,,,,0.0,10.55,,,10.55
+42,Australia,1995,1367,,PHI,Regional Municipal Development,SERD,,08/30/1995,,,,,0.0,11.77,,,11.77
+43,Australia,1995,1396,,PHI,Integrated Community Health,SERD,,10/17/1995,,,,,0.0,13.7,,,13.7
+44,Australia,1996,1448,,VAN,Urban Infrastructure,PARD,PARD,06/27/1996,,,,,0.0,0.32,,,0.32
+45,Australia,1998,1621,,LAO,Basic Education (Girls),SERD,SESS,06/25/1998,,,,,0.0,5.0,,,5.0
+47,Australia,1999,1703,,PNG,Financial Management,PARD,,10/21/1999,,,,,0.0,12.0,,,12.0
+49,Australia,2000,1812,,PNG,Provincial Towns Water Supply and Sanitation,PARD,,12/15/2000,,,,,0.0,1.8,,,1.8
+53,Australia,2006,0042,,PNG,HIV/AIDS Prevention and Control in Rural Development Enclaves,PARD,PAHQ,04/25/2006,,,,,0.0,3.5,,,3.5
+56,Australia,2006,2262,,VIE,Support the Implementation of Poverty Reduction Program III,SERD,VRM,10/05/2006,,,,,0.0,7.4,,,7.4
+57,Australia,2007,0082/8241,,LAO,Northern GMS Transport Network Improvement,SERD,,09/27/2007,,,,,0.0,14.5,,,14.5
+58,Australia,2007,2352,,VIE,Support the Implementation of Poverty Reduction Program IV,SERD,VRM,10/02/2007,,,,,0.0,8.0,,,8.0
+66,Australia,2009,0143,,LAO,Small Towns Water Supply and Sanitation Sector,SERD,,02/02/2009,,,,,0.0,5.3,,,5.3
+72,Australia,2010,0243,,SOL,Transport Sector Development,PARD,,12/15/2010,,,,,0.0,30.0,,,30.0
+105,Belgium,1973,0168-169,,PAK,Mangla Hydropower,CWRD,,12/17/1973,,,,,0.0,,7.6,,7.6
+106,Belgium,1986,0824,,PAK,WAPDA Tenth Power (Sector),CWRD,,12/18/1986,,,,,0.0,,7.1,,7.1
+107,Belgium,1997,1537,,VIE,Lower Secondary Education Development,SERD,SESS,09/16/1997,,,,,0.0,0.51,,,0.51
+109,Canada,1976,0279-0280,,PAK,Port Qasim,CWRD,,11/18/1976,,,,,0.0,,6.06,,6.06
+110,Canada,1977,0332/8010,,PAK,Tarbela Hydropower (Supplementary & Extension),CWRD,SAEN,12/15/1977,,,,,0.0,,35.0,,35.0
+111,Canada,1981,0523,,BAN,Power System Rehabilitation and Expansion,SARD,,09/22/1981,,,,,0.0,1.26,,,1.26
+112,Canada,1981,0541,,BAN,Chittagong Urea Fertilizer,SARD,BRM,11/01/1981,,,,,0.0,,20.0,,20.0
+113,Canada,1982,0601,,PAK,Tarbela Hydropower Extension (Units 9 and 10),CWRD,,11/23/1982,,,,,0.0,,17.0,,17.0
+114,Canada,1983,0623,,THA,Mineral Resources Development,SERD,SERD,04/14/1983,,,,,0.0,7.07,,,7.07
+116,Canada,1984,0701,,PAK,Tarbela Hydropower Extension (Units 11 and 12),CWRD,,11/01/1984,,,,,0.0,,17.41,,17.41
+117,Canada,1987,0869,,PAK,Oil and Gas Development,CWRD,,12/03/1987,,,,,0.0,0.2,,,0.2
+118,Canada,1988,0888,,SRI,Emergency Schools Restoration,SARD,,06/30/1988,,,,,0.0,4.0,,,4.0
+119,Canada,1998,1609,,NEP,Community Groundwater Irrigation Sector,SARD,SAAE,11/01/1998,,,,,0.0,2.8,,,2.8
+122,Canada,2004,2123,,VIE,Support to Implementation of Poverty Reduction Program,SERD,VRM,12/09/2004,,,,,0.0,5.0,,,5.0
+124,Canada,2005,2194,,VIE,Support to Implementation on Poverty Reduction Program II,SERD,VRM,11/03/2005,,,,,0.0,5.0,,,5.0
+126,Canada,2006,2262,,VIE,Support the Implementation of Poverty Reduction Program III,SERD,VRM,10/05/2006,,,,,0.0,3.6,,,3.6
+127,Canada,2007,2352,,VIE,Support the Implementation of Poverty Reduction Program IV,SERD,VRM,10/02/2007,,,,,0.0,7.0,,,7.0
+128,Canada,2007,9024/0076,,AFG,Road Employment Project for Settlement and Integration of Returning Refugees and Displaced Persons (Supplementary),CWRD,,03/28/2007,,,,,0.0,12.8,,,12.8
+131,Canada,2010,0118/0206,,NEP,Governance Support Program (Subprogram I) (Supplementary),SARD,,04/12/2010,,,,,0.0,8.8,,,8.8
+139,CEF-CEFPF,2008,0109,,PRC,Capacity Building for Energy Efficiency Implementation,EARD,,06/04/2008,,,,,0.0,0.8,,,0.8
+142,CEF-CEFPF,2010,2628/EI7311/0201,,THA,Solar Power,PSOD,,04/16/2010,,,,,0.0,2.0,,,2.0
+168,Czechoslovakia,1986,0824,,PAK,WAPDA Tenth Power (Sector),CWRD,,12/18/1986,,,,,0.0,,46.0,,46.0
+170,Denmark,1984,0722,,BHU,Second Multiproject,SARD,,12/13/1984,,,,,0.0,,1.45,,1.45
+171,Denmark,1987,0829,,BHU,Urban Centers Sewerage,SARD,,02/03/1987,,,,,0.0,,2.15,,2.15
+172,Denmark,1994,1334,,MON,Power Rehabilitation,EARD,,11/24/1994,,,,,0.0,5.0,,,5.0
+173,Denmark,1996,1443,,KGZ,Power & District Heating Rehab.,CWRD,,06/06/1996,,,,,0.0,,8.2,,8.2
+174,Denmark,1997,1524,,BAN,Participatory Livestock,SARD,SAAE,06/19/1997,,,,,0.0,11.2,,,11.2
+175,Denmark,1997,1532,,MLD,Third Power Systems Development,SARD,SAEN,09/01/1997,,,,,0.0,,4.72,,4.72
+176,Denmark,2000,1746,,PHI,Pasig River Environmental Management and Rehabilitation SDP (Investment Loan),SERD,,07/20/2000,,,,,0.0,2.2,,,2.2
+182,Denmark,2004,2123,,VIE,Support to Implementation of Poverty Reduction Program,SERD,VRM,12/09/2004,,,,,0.0,10.0,,,10.0
+183,Denmark,2005,2194,,VIE,Support to Implementation on Poverty Reduction Program II,SERD,VRM,11/03/2005,,,,,0.0,10.8,,,10.8
+184,Denmark,2006,2262,,VIE,Support the Implementation of Poverty Reduction Program III,SERD,VRM,10/05/2006,,,,,0.0,10.4,,,10.4
+185,Denmark,2007,2352,,VIE,Support the Implementation of Poverty Reduction Program IV,SERD,VRM,10/02/2007,,,,,0.0,11.0,,,11.0
+186,Denmark,2008,0118/0206,,NEP,Governance Support Program Cluster (Subprogram 1),SARD,SAGF,10/22/2008,,,,,0.0,12.0,,,12.0
+195,EBRD,2000,1774-1775,,REG,Almaty-Bishkek Regional Road Rehabilitation (KAZ and KGZ Components),CWRD,CWID,10/31/2000,,,,,0.0,,28.5,,28.5
+197,EBRD,2010,2620,,ARM,Zvartnots Airport Expansion Project (Phase 2),PSOD,PSIF,03/26/2010,,,,,0.0,,40.0,,40.0
+202,EC,1977,0322,,AFG,Fertilizer and Agrochemical Storage,CWRD,CWID,11/29/1977,,,,,0.0,,1.12,,1.12
+203,EC,1977,0330,,PAK,Chashma Right Bank Irrigation,CWRD,SAAE,12/15/1977,,,,,0.0,,4.48,,4.48
+204,EC,1978,0339,,MYA,Second Fisheries Development,SERD,,02/06/1978,,,,,0.0,,1.12,,1.12
+205,EC,1978,0367,,THA,Aquaculture Development,SERD,SEAE,11/27/1978,,,,,0.0,,1.01,,1.01
+208,EC,1979,0396,,BAN,Ashuganj Fertilizer (Supplementary),SARD,BRM,04/26/1979,,,,,0.0,,3.0,,3.0
+209,EC,1979,0417,,PHI,Bicol River Basin Irrigation,SERD,,10/25/1979,,,,,0.0,,6.2,,6.2
+210,EC,1979,0434,,INO,Tulungagung Drainage,SERD,,12/06/1979,,,,,0.0,,8.5,,8.5
+211,EC,1979,0439,,PAK,Baluchistan Livestock Development,CWRD,SAAE,12/12/1979,,,,,0.0,,8.7,,8.7
+212,EC,1979,0445,,NEP,Livestock Development,SARD,SAAE,12/19/1979,,,,,0.0,,3.08,,3.08
+213,EC,1980,0479,,INO,Lower Citanduy Irrigation,SERD,SEAE,11/13/1980,,,,,0.0,,4.9,,4.9
+214,EC,1980,0494,,PAK,Second Marine Fisheries Development,CWRD,,12/11/1980,,,,,0.0,,12.0,,12.0
+215,EC,1980,0505,,PAK,Load Despatch and Transmission,CWRD,,12/22/1980,,,,,0.0,,35.0,,35.0
+216,EC,1981,0515,,MYA,Pump Irrigation and Area Development,SERD,,06/23/1981,,,,,0.0,,6.0,,6.0
+217,EC,1981,0522,,INO,Bali Irrigation Sector,SERD,SEAE,09/17/1981,,,,,0.0,,12.5,,12.5
+218,EC,1981,0529,,PHI,Palawan Integrated Area Development,SERD,,09/29/1981,,,,,0.0,,7.0,,7.0
+219,EC,1981,0558,,BAN,Small-Scale Irrigation (Sector Loan),SARD,SAAE,12/10/1981,,,,,0.0,,12.0,,12.0
+220,EC,1982,0593,,BAN,Bhola Irrigation,SARD,SAAE,11/04/1982,,,,,0.0,,2.8,,2.8
+221,EC,1983,0664,,THA,Agricultural Credit,SERD,SERD,12/06/1983,,,,,0.0,,17.0,,17.0
+222,EC,1986,0813,,SAM,Afulilo Hydroelectric,PARD,,12/14/1986,,,,,0.0,,4.75,,4.75
+223,EC,1990,1034,,PHI,Second Palawan Integrated Area Development,SERD,,09/27/1990,,,,,0.0,,9.9,,9.9
+224,EC,1993,1228,,SAM,Afulilo Hydroelectric (Supplementary),PARD,,04/22/1993,,,,,0.0,,1.6,,1.6
+225,EC,1994,1331,,PHI,Women's Health & Safe Motherhood,SERD,SESS,11/10/1994,,,,,0.0,13.0,,,13.0
+226,EC,1996,1493,,PAK,Social Action Program (Sector) Project II,CWRD,,11/28/1996,,,,,0.0,,50.0,,50.0
+228,EC,2004,2123,,VIE,Support to Implementation of Poverty Reduction Program,SERD,VRM,12/09/2004,,,,,0.0,18.0,,,18.0
+230,EC,2005,2194,,VIE,Support to Implementation on Poverty Reduction Program II,SERD,VRM,11/03/2005,,,,,0.0,9.8,,,9.8
+232,EC,2006,2262,,VIE,Support the Implementation of Poverty Reduction Program III,SERD,VRM,10/05/2006,,,,,0.0,11.6,,,11.6
+233,EC,2007,0078,,SOL,Emergency Assistance,PARD,PAHQ,06/27/2007,,,,,0.0,4.0,,,4.0
+235,EC,2007,2352,,VIE,Support the Implementation of Poverty Reduction Program IV,SERD,VRM,10/02/2007,,,,,0.0,27.0,,,27.0
+237,EC,2009,0078,,SOL,Emergency Assistance (Supplementary),PARD,PAHQ,08/27/2009,,,,,0.0,4.04,,,4.04
+252,EIB,1978,0345,,FIJ,Second Power,PARD,PARD,06/29/1978,,,,,0.0,,14.8,,14.8
+253,EIB,1981,0536,,FIJ,Third Power,PARD,,11/10/1981,,,,,0.0,,13.3,,13.3
+254,EIB,1986,0813,,SAM,Afulilo Hydroelectric,PARD,,12/14/1986,,,,,0.0,,2.54,,2.54
+256,EIB,1994,1333,,PHI,Airport Development,SERD,SEID,11/24/1994,,,,,0.0,,23.19,,23.19
+257,EIB,1995,1357,,INO,Gas Transmission and Distribution,SERD,SEID,06/08/1995,,,,,0.0,,125.25,,125.25
+258,EIB,1995,1419,,PRC,Ping Hu Oil and Gas Development,EARD,EAEN,12/21/1995,,,,,0.0,,59.82,,59.82
+259,EIB,1996,1424,,PAK,Ghazi-Barotha Hydropower,CWRD,SAEN,01/18/1996,,,,,0.0,,60.0,,60.0
+260,EIB,1997,1597,,BAN,Lafarge Surma Cement Ltd,PSOD,,12/18/1997,,,,,0.0,,22.5,,22.5
+261,EIB,1999,1669,,PRC,Chengdu Generale Des Eaux-Marubeni Waterworks Company Limited,PSOD,,02/11/1999,,,,,0.0,,26.5,,26.5
+262,EIB,2001,1851,,PRC,Guangxi Roads Development,EARD,,10/30/2001,,,,,0.0,,50.0,,50.0
+264,EIB,2008,2476,,IND,Rural Electrification of India,SARD,SAGF,11/27/2008,,,,,0.0,,100.0,,100.0
+285,Finland,1983,0633,,NEP,Hill Forest Development,SARD,AWFN,08/09/1983,,,,,0.0,,1.4,,1.4
+286,Finland,1983,0665,,MYA,Rangoon General Hospital,SERD,SESS,12/08/1983,,,,,0.0,,4.0,,4.0
+287,Finland,1985,0762,,INO,Forestry Development,SERD,SEAE,11/28/1985,,,,,0.0,,2.0,,2.0
+288,Finland,1988,0889,,PHI,Forestry Sector Program,SERD,SEAE,06/28/1988,,,,,0.0,,0.92,,0.92
+290,Finland,2005,0034/0035,,CAM,Tonle Sap Sustainable Livelihoods,SERD,SEAE,12/21/2005,,,,,0.0,4.74,,,4.74
+295,France,1981,0533,,NEP,Fourth Power,SARD,SAID,11/01/1981,,,,,0.0,,3.5,,3.5
+296,France,1985,0774,,BAN,Chhatak Cement Plant Expansion,SARD,,12/19/1985,,,,,0.0,,3.74,,3.74
+297,France,1990,1025,,PAK,Third Telecommunications,CWRD,,08/16/1990,,,,,0.0,,15.0,,15.0
+299,France,1994,1143,,PAK,WAPDA Twelfth Power (Sector),CWRD,,11/01/1994,,,,,0.0,,25.0,,25.0
+300,France,1997,1558,,LAO,Power Transmission and Distribution,SERD,,09/30/1997,,,,,0.0,2.82,,,2.82
+302,France,1997,1564,,VIE,Rural Infrastructure Sector,SERD,SEAE,10/23/1997,,,,,0.0,,14.78,,14.78
+303,France,1997,1575,,SRI,Third Water Supply and Sanitation Sector,SARD,SASS,11/06/1997,,,,,0.0,15.0,,,15.0
+304,France,1998,1655,,VIE,Vocational and Technical Education,SERD,,11/11/1998,,,,,0.0,,12.22,,12.22
+305,France,2000,1753,,CAM,Stung Chinit Irrigation and Rural Infrastructure,SERD,SEAE,09/05/2000,,,,,0.0,2.7,,,2.7
+307,France,2000,1794,,CAM,Provincial Power Supply,SERD,SEEN,12/05/2000,,,,,0.0,4.63,,,4.63
+308,France,2001,1834,,LAO,Vientiane Urban Infrastructure and Services,SERD,SESS,08/23/2001,,,,,0.0,4.4,,,4.4
+312,France,2002,1932,,VIE,Second Financial Sector Program (Subprogram I),SERD,SEGF,11/20/2002,,,,,0.0,,19.0,,19.0
+318,France,2004,2095,,VIE,Small and Medium-Sized Enterprise Development Program (Subprogram I),SERD,SEGF,10/21/2004,,,,,0.0,,18.0,,18.0
+320,France,2004,2118,,VIE,Second Financial Sector Program - Subprogram II,SERD,SEGF,12/03/2004,,,,,0.0,,15.5,,15.5
+326,France,2006,2284,,VIE,Small and Medium Enterprise Development Program - Subprogram II,SERD,SEGF,12/12/2006,,,,,0.0,,16.4,,16.4
+361,GDCF,2009,0143,,LAO,Small Towns Water Supply and Sanitation Sector,SERD,,02/02/2009,,,,,0.0,0.5,,,0.5
+369,GEF,2002,1939,,CAM,Tonle Sap Environmental Management,SERD,SEAE,11/21/2002,,,,,0.0,3.93,,,3.93
+378,GEF,2010,2500/2501/0216,,INO,Citarum Watershed Management and Biodiversity Conservation,SERD,SEAE,08/04/2010,,,,,0.0,3.75,,,3.75
+379,GEF,2010,2632/0202/0203,,PRC,Integrated Renewable Biomass Energy Development Sector,EARD,,04/16/2010,,,,,0.0,9.2,,,9.2
+398,Germany,1971,0065,,LAO,Vientiane Power Distribution,SERD,SEID,05/06/1971,,,,,0.0,,3.73,,3.73
+400,Germany,1975,0231,,SRI,Urea Fertilizer,SARD,,09/18/1975,,,,,0.0,,24.5,,24.5
+402,Germany,1978,0375,,INO,Fifth Port,SERD,,12/07/1978,,,,,0.0,,40.39,,40.39
+403,Germany,1979,0396,,BAN,Ashuganj Fertilizer (Supplementary),SARD,BRM,04/26/1979,,,,,0.0,,9.95,,9.95
+404,Germany,1979,0403,,SRI,Urea Fertilizer (Supplementary),SARD,AWFN,06/21/1979,,,,,0.0,,3.0,,3.0
+405,Germany,1979,0412,,PHI,Manila Port,SERD,,09/27/1979,,,,,0.0,,12.25,,12.25
+406,Germany,1979,0437,,MYA,Cement Industry Program,SERD,,12/12/1979,,,,,0.0,,1.35,,1.35
+407,Germany,1980,0505,,PAK,Load Despatch and Transmission,CWRD,,12/22/1980,,,,,0.0,,18.0,,18.0
+409,Germany,1982,0570,,PAK,Telecommunications,CWRD,,06/17/1982,,,,,0.0,,30.0,,30.0
+410,Germany,1982,0587,,BAN,Ashuganj Thermal Power Generation,SARD,,10/21/1982,,,,,0.0,,48.0,,48.0
+411,Germany,1983,0636,,BAN,Power Transmission and Distribution,SARD,,09/13/1983,,,,,0.0,,18.05,,18.05
+412,Germany,1983,0674,,INO,Power XVIII,SERD,,12/20/1983,,,,,0.0,,11.0,,11.0
+413,Germany,1984,0701,,PAK,Tarbela Hydropower Extension (Units 11 and 12),CWRD,,11/01/1984,,,,,0.0,,24.45,,24.45
+414,Germany,1984,0708,,NEP,Sixth Power,SARD,,11/20/1984,,,,,0.0,,0.5,,0.5
+415,Germany,1985,0760,,PAK,Tarbela Units 13 & 14 and 500 kV Transmission,CWRD,,11/28/1985,,,,,0.0,,38.6,,38.6
+416,Germany,1986,0824,,PAK,WAPDA Tenth Power (Sector),CWRD,,12/18/1986,,,,,0.0,,175.0,,175.0
+417,Germany,1990,1022,,THA,Transmission System for Mae Moh Power (Units 10 & 11),SERD,,06/05/1990,,,,,0.0,,15.7,,15.7
+418,Germany,1990,1025,,PAK,Third Telecommunications,CWRD,,08/16/1990,,,,,0.0,,30.0,,30.0
+419,Germany,1990,1037,,NEP,Small Farmers Development III,SARD,,10/04/1990,,,,,0.0,1.0,,,1.0
+420,Germany,1991,1111,,INO,Bogor and Palembang Urban Dev,SERD,SESS,10/31/1991,,,,,0.0,,7.3,,7.3
+422,Germany,1992,1172,,INO,Power XXII,SERD,SEID,08/04/1992,,,,,0.0,,45.7,,45.7
+423,Germany,1992,1209,,PAK,Flood Damage Restoration (Sector),CWRD,SAAE,12/15/1992,,,,,0.0,,10.0,,10.0
+424,Germany,1994,1143,,PAK,WAPDA Twelfth Power (Sector),CWRD,,11/01/1994,,,,,0.0,,81.25,,81.25
+425,Germany,1994,1300/2194(L),,MON,Telecommunications,EARD,EATC,06/16/1994,,,,,0.0,,7.02,,7.02
+426,Germany,1994,1331,,PHI,Women's Health & Safe Motherhood,SERD,SESS,11/10/1994,,,,,0.0,14.23,,,14.23
+427,Germany,1995,1398,,PHI,Northern Luzon Transmission & Generation,SERD,SEID,11/02/1995,,,,,0.0,,27.8,,27.8
+428,Germany,1996,1424,,PAK,Ghazi-Barotha Hydropower,CWRD,SAEN,01/18/1996,,,,,0.0,,147.0,,147.0
+429,Germany,1996,1460,,VIE,Population and Family Health,SERD,,09/19/1996,,,,,0.0,15.02,,,15.02
+430,Germany,1997,1525,,LAO,Secondary Towns Urban Development,SERD,SESS,06/26/1997,,,,,0.0,0.8,,,0.8
+431,Germany,1997,1559,,INO,"Belawan, Balikpapan and Banjarmasin Ports",SERD,,07/11/1997,,,,,0.0,,25.0,,25.0
+433,Germany,2001,1830,,BHU,Basic Skills Development,SARD,SASS,06/21/2001,,,,,0.0,2.5,,,2.5
+435,Germany,2001,1871,,IND,Private Sector Infrastructure Facility at State Level,SARD,SAGF,12/11/2001,,,,,0.0,2.0,,,2.0
+436,Germany,2001,1884-1885,,BAN,West Zone Power System Development,SARD,,12/17/2001,,,,,0.0,,30.0,,30.0
+437,Germany,2002,1952,,BAN,Rural Infrastructure Improvement,SARD,SAAE,12/02/2002,,,,,0.0,11.9,,,11.9
+438,Germany,2002,1952,,BAN,Rural Infrastructure Improvement,SARD,SAAE,12/02/2002,,,,,0.0,5.0,,,5.0
+443,Germany,2006,2262,,VIE,Support the Implementation of Poverty Reduction Program III,SERD,VRM,10/05/2006,,,,,0.0,,7.6,,7.6
+448,Germany,2007,2352,,VIE,Support the Implementation of Poverty Reduction Program IV,SERD,VRM,10/02/2007,,,,,0.0,,8.0,,8.0
+451,Germany,2008,2476,,IND,Rural Electrification of India,SARD,SAGF,11/27/2008,,,,,0.0,,80.0,,80.0
+452,Germany,2010,2620,,ARM,Zvartnots Airport Expansion Project (Phase 2),PSOD,PSIF,03/26/2010,,,,,0.0,,20.0,,20.0
+453,Germany,2010,2632/0202/0203,,PRC,Integrated Renewable Biomass Energy Development Sector,EARD,,04/16/2010,,,,,0.0,4.6,,,4.6
+478,IFAD,1978,0387,,NEP,Integrated Rural Development,SARD,SAAE,12/20/1978,,,,,0.0,,13.0,,13.0
+479,IFAD,1979,0396,,BAN,Ashuganj Fertilizer (Supplementary),SARD,BRM,04/26/1979,,,,,0.0,,8.0,,8.0
+480,IFAD,1979,0418,,LAO,Casier Sud Pioneer Agricultural,SERD,SEAE,10/29/1979,,,,,0.0,,6.1,,6.1
+483,IFAD,1981,0526,,SRI,Coconut Development,SARD,SAAE,09/24/1981,,,,,0.0,,8.0,,8.0
+484,IFAD,1981,0548,,PHI,Smallholder Livestock Development,SERD,,11/25/1981,,,,,0.0,,8.0,,8.0
+498,IFAD,1996,1381/2564,,BAN,Beneficiary Participation and Project Management,SARD,AWAR,05/02/1996,,,,,0.0,,10.4,,10.4
+499,IFAD,1996,1421,,PHI,Cordillera Highland Agricultural Resource (blended 1421/1422),SERD,,01/11/1996,,,,,0.0,,5.32,,5.32
+500,IFAD,1996,1435,,PHI,Rural Microenterprise Finance,SERD,,04/23/1996,,,,,0.0,,13.49,,13.49
+505,IFAD,2009,0144-0145,,LAO,Sustainable Natural Resource Management and Productivity Enhancement,SERD,,02/23/2009,,,,,0.0,15.0,,,15.0
+508,IFAD,2009,2599/0186/0191/0192/8243,,CAM,Tonle Sap Poverty Reduction and Smallholder Development,SERD,,12/08/2009,,,,,0.0,6.69,,,6.69
+518,IMF,1991,1109,,MON,Special Assistance,EARD,,10/29/1991,,,,,0.0,,30.0,,30.0
+520,India,1975,0231,,SRI,Urea Fertilizer,SARD,,09/18/1975,,,,,0.0,,12.5,,12.5
+530,Ireland,2005,2194,,VIE,Support to Implementation on Poverty Reduction Program II,SERD,VRM,11/03/2005,,,,,0.0,1.8,,,1.8
+531,Ireland,2006,2262,,VIE,Support the Implementation of Poverty Reduction Program III,SERD,VRM,10/05/2006,,,,,0.0,3.8,,,3.8
+532,Ireland,2007,2352,,VIE,Support the Implementation of Poverty Reduction Program IV,SERD,VRM,10/02/2007,,,,,0.0,10.0,,,10.0
+536,IsDB,1981,0541,,BAN,Chittagong Urea Fertilizer,SARD,AWFN,11/01/1981,,,,,0.0,,16.0,,16.0
+537,IsDB,1983,0673,,MAL,Second Vocational Education,SERD,,12/20/1983,,,,,0.0,,8.3,,8.3
+538,IsDB,1984,0693,,INO,Fisheries Infrastructure Sector,SERD,SEAE,09/25/1984,,,,,0.0,,10.7,,10.7
+540,IsDB,1986,0796,,BAN,Chittagong Urea Fertilizer (Supplementary),SARD,,11/13/1986,,,,,0.0,,2.23,,2.23
+541,IsDB,1989,0957,,PAK,Flood Damage Restoration,CWRD,,03/30/1989,,,,,0.0,,10.0,,10.0
+542,IsDB,1996,1424,,PAK,Ghazi-Barotha Hydropower,CWRD,SAEN,01/18/1996,,,,,0.0,,40.0,,40.0
+543,IsDB,1996,1467,,PAK,Bahawalpur Rural Development,CWRD,SAAE,09/26/1996,,,,,0.0,,7.0,,7.0
+544,IsDB,1999,1695,,MLD,Regional Development,SARD,,09/02/1999,,,,,0.0,,5.86,,5.86
+545,IsDB,2000,1817,,TAJ,Power Rehabilitation,CWRD,,12/20/2000,,,,,0.0,,9.3,,9.3
+547,IsDB,2005,2198,,PAK,New Bong Escape Hydropower (Laraib Energy Limited),PSOD,PSIF,11/21/2005,,,,,0.0,,37.3,,37.3
+565,Italy,1985,0770,,PAK,Second Pirkoh Gas Development,CWRD,,12/12/1985,,,,,0.0,,5.0,,5.0
+567,ITU,1989,0960,,SAM,Second Telecommunications,PARD,,06/01/1989,,,,,0.0,0.1,,,0.1
+569,Japan,ERROR: Incorrect data type for operator or @Function: Time/Date expected,2009,,BHU,Rural Electrification and Network Expansion,SARD,SAEN,,,,,,0.0,1.7,,,1.7
+570,Japan,ERROR: Incorrect data type for operator or @Function: Time/Date expected,2074-2075,,INO,Second Decentralized Health Services,SERD,SESS,,,,,,0.0,5.0,,,5.0
+573,Japan,1970,0050,,THA,Power Transmission and SubStation Expansion,SERD,,12/17/1970,,,,,0.0,,15.5,,15.5
+574,Japan,1976,0279-0280,,PAK,Port Qasim,CWRD,,11/18/1976,,,,,0.0,1.01,,,1.01
+575,Japan,1978,0372,,MAL,Trengganu Hydropower,SERD,SEID,12/05/1978,,,,,0.0,,75.62,,75.62
+579,Japan,1980,0000,,INO,Equipment Supply for Local Roads Support Works,SERD,,07/29/1980,,,,,0.0,,17.4,,17.4
+580,Japan,1981,0521,,MAL,Batang-Ai Hydropower,SERD,,09/17/1981,,,,,0.0,,65.8,,65.8
+581,Japan,1981,0541,,BAN,Chittagong Urea Fertilizer,SARD,BRM,11/17/1981,,,,,0.0,,83.21,,83.21
+582,Japan,1984,0717,,THA,Mae Moh (Unit 8) Power,SERD,,12/11/1984,,,,,0.0,,6.57,,6.57
+583,Japan,1984,0718,,THA,Rural Telecommunications,SERD,,12/11/1984,,,,,0.0,,13.2,,13.2
+584,Japan,1985,0735,,THA,Third Bangkok Water Supply,SERD,,03/21/1985,,,,,0.0,,88.6,,88.6
+586,Japan,1986,0796,,BAN,Chittagong Urea Fertilizer (Supplementary),SARD,,11/13/1986,,,,,0.0,,23.36,,23.36
+587,Japan,1986,0828,,THA,Mae Moh (Unit 9) Power,SERD,,12/23/1986,,,,,0.0,,6.28,,6.28
+588,Japan,1987,0000,,INO,Local Road Dev Project,SERD,,12/08/1987,,,,,0.0,,84.75,,84.75
+590,Japan,1987,0839,,BAN,Road Improvement,SARD,,08/27/1987,,,,,0.0,82.0,,,82.0
+592,Japan,1988,0000,,INO,Local Currency Financing for ADB-Assisted Projects,SERD,,10/21/1988,,,,,0.0,,46.6,,46.6
+595,Japan,1988,9999INO2,,INO, Second Untied Loan (17 Bank Projects)  ,SERD,,08/09/1988,,,,,0.0,,576.0,,576.0
+596,Japan,1989,0943,,THA,Second Highway (Sector),SERD,,01/12/1989,,,,,0.0,,30.5,,30.5
+602,Japan,1989,1005,,FIJ,Low Income Housing Development,PARD,,12/21/1989,,,,,0.0,1.3,,,1.3
+603,Japan,1989,9999INO3,,INO,Third Untied Loan (11 Bank Projects),SERD,,12/15/1989,,,,,0.0,,350.0,,350.0
+604,Japan,1990,1027,,THA,Third Highway (Sector),SERD,,08/28/1990,,,,,0.0,,97.0,,97.0
+609,Japan,1991,1098,,THA,Fourth Highway (Sector),SERD,SEID,09/17/1991,,,,,0.0,,72.12,,72.12
+614,Japan,1992,1190,,LAO,Rehabilitation & Upgrading Vientiane Water Supply,SERD,,11/17/1992,,,,,0.0,19.3,,,19.3
+615,Japan,1992,9999INO,,INO,Fourth Untied Loan (5 ADB Projects),SERD,,08/21/1992,,,,,0.0,,200.0,,200.0
+616,Japan,1993,1222,,IND,Gas Flaring Reduction,SARD,,03/30/1993,,,,,0.0,,55.1,,55.1
+617,Japan,1993,1239,,THA,Second Rural Telecommunications,SERD,,06/29/1993,,,,,0.0,,19.1,,19.1
+619,Japan,1993,1272,,VIE,Road Improvement,SERD,,11/29/1993,,,,,0.0,,36.0,,36.0
+622,Japan,1993,1287,,BAN,Road Overlay and Improvement,SARD,,12/09/1993,,,,,0.0,,45.0,,45.0
+623,Japan,1993,1293,,BAN,Third Natural Gas Development,SARD,SAID,12/21/1993,,,,,0.0,,15.23,,15.23
+625,Japan,1994,1306,,THA,Regional Roads,SERD,MKRD,07/19/1994,,,,,0.0,,150.0,,150.0
+626,Japan,1995,1356,,BAN,Rural Electrification,SARD,,05/30/1995,,,,,0.0,,13.5,,13.5
+627,Japan,1995,1357,,INO,Gas Transmission and Distribution,SERD,SEID,06/08/1995,,,,,0.0,,104.72,,104.72
+628,Japan,1995,1362,,LAO,Vientiane Integrated Urban Development,SERD,,08/17/1995,,,,,0.0,5.65,,,5.65
+629,Japan,1995,1369,,LAO,Champassak Road Improvement,SERD,SEID,08/31/1995,,,,,0.0,70.0,,,70.0
+630,Japan,1995,1398,,PHI,Northern Luzon Transmission & Generation,SERD,SEID,11/02/1995,,,,,0.0,,244.0,,244.0
+631,Japan,1995,1402,,SRI,Plantation Reform,SARD,SAAE,11/09/1995,,,,,0.0,,40.0,,40.0
+632,Japan,1995,1410,,THA,Samut Prakarn Wastewater Management,SERD,,12/07/1995,,,,,0.0,,70.0,,70.0
+633,Japan,1995,1413,,PAK,National Drainage Program,CWRD,SAAE,12/12/1995,,,,,0.0,,100.0,,100.0
+634,Japan,1995,1419,,PRC,Ping Hu Oil and Gas Development,EARD,EAEN,12/21/1995,,,,,0.0,,89.58,,89.58
+635,Japan,1996,1424,,PAK,Ghazi-Barotha Hydropower,CWRD,SAEN,01/18/1996,,,,,0.0,,350.0,,350.0
+636,Japan,1996,1444,,KGZ,Road Rehabilitation,CWRD,,06/13/1996,,,,,0.0,,20.84,,20.84
+640,Japan,1996,1478,,BAN,Jamuna Bridge Access Roads,SARD,SAID,11/05/1996,,,,,0.0,9.98,,,9.98
+641,Japan,1996,1478,,BAN,Jamuna Bridge Access Roads,SARD,SAID,11/05/1996,,,,,0.0,,47.31,,47.31
+642,Japan,1996,1487,,VIE,Second Road Improvement,SERD,SEID,11/21/1996,,,,,0.0,,40.4,,40.4
+643,Japan,1997,1562-1563,,PHI,Fisheries Resource Management,SERD,SEAE,10/16/1997,,,,,0.0,,12.59,,12.59
+645,Japan,1997,1590,,PHI,Power Transmission Reinforcement,SERD,,12/16/1997,,,,,0.0,,7.5,,7.5
+648,Japan,1998,1649,,SRI,Road Network Improvement,SARD,SAID,12/08/1998,,,,,0.0,,22.4,,22.4
+649,Japan,1998,1653,,VIE,Third Road Improvement,SERD,SEID,12/10/1998,,,,,0.0,,88.5,,88.5
+651,Japan,1998,1655,,VIE,Vocational and Technical Education,SERD,,11/11/1998,,,,,0.0,19.17,,,19.17
+658,Japan,1999,1727-1728,,REG,GMS: East-West Corridor (LAO and VIE),SERD,SEID,12/20/1999,,,,,0.0,,180.0,,180.0
+659,Japan,1999,1727-1728,,REG,GMS: East-West Corridor (LAO and VIE),SERD,SEID,12/20/1999,,,,,0.0,65.0,,,65.0
+660,Japan,2000,1737,,UZB,Senior Secondary Education,CWRD,CWSS,02/08/2000,,,,,0.0,,57.0,,57.0
+663,Japan,2000,9000,,INO,Assisting Girl Street Children at Risk of Sexual Abuse,SERD,IRM,10/20/2000,,,,,0.0,1.0,,,1.0
+665,Japan,2000,9002,,PNG,"Low-Cost Sanitation, Community Awareness and Health Education Program",PARD,PNRM,12/14/2000,,,,,0.0,1.74,,,1.74
+668,Japan,2001,9005,,REG,Improving Nutrition for Poor Mothers and Children,CWRD,CWPF,04/26/2001,,,,,0.0,6.85,,,6.85
+669,Japan,2001,9006,,REG,Community Action for Preventing HIV/AIDS,SERD,SESS,05/08/2001,,,,,0.0,8.0,,,8.0
+670,Japan,2001,9007,,NEP,Supporting Poor and Disadvantaged  Farmers through Civil Society Organizations,SARD,NRM,05/15/2001,,,,,0.0,0.8,,,0.8
+671,Japan,2001,9008,,TAJ,Tajikistan Rural Poverty Reduction,CWRD,CWAE,08/08/2001,,,,,0.0,2.9,,,2.9
+672,Japan,2001,9009,,BAN,Supporting Livelihood Improvement for the Poor through Water Management Associations,SARD,BRM,08/17/2001,,,,,0.0,0.9,,,0.9
+673,Japan,2001,9010,,UZB,Supporting Innovative Poverty Reduction in Karakalpakstan,CWRD,URM,10/25/2001,,,,,0.0,2.54,,,2.54
+674,Japan,2001,9011,,PRC,Innovations for Participatory Flood Control by the Poor Along the Yellow River,EARD,EAER,11/16/2001,,,,,0.0,1.0,,,1.0
+675,Japan,2001,9012,,LAO,Supporting the Community-Managed Livelihood Improvement,SERD,SEER,12/18/2001,,,,,0.0,1.0,,,1.0
+676,Japan,2002,1908,,MON,Second Education Development,EARD,EASS,08/06/2002,,,,,0.0,45.0,,,45.0
+679,Japan,2002,1978,,INO,Small and Medium Enterprise Export Development,SERD,SEGF,12/17/2002,,,,,0.0,5.0,,,5.0
+682,Japan,2002,9013,,AZE,Integration of Internally Displaced Persons in Mingechevir Rayon,CWRD,CWUW,01/30/2002,,,,,0.0,2.5,,,2.5
+683,Japan,2002,9014,,MON,Expanding Employment Opportunities for Poor Disabled Persons,EARD,MNRM,04/01/2002,,,,,0.0,1.0,,,1.0
+684,Japan,2002,9015,,MON,Improving the Living Environment of the Poor in Ger Areas of Mongolia's Cities,EARD,EASS,05/07/2002,,,,,0.0,2.2,,,2.2
+685,Japan,2002,9016,,INO,Supporting the Community-Based Basic Education for the Poor,SERD,SEHS,05/07/2002,,,,,0.0,3.2,,,3.2
+686,Japan,2002,9017,,CAM,Community-Based Livelihood Enhancement for the Rural Poor,SERD,SEER,07/12/2002,,,,,0.0,1.8,,,1.8
+688,Japan,2002,9019,,AFG,Community-Based Gender-Sensitive Basic Education for the Poor,CWRD,CWPF,09/10/2002,,,,,0.0,4.0,,,4.0
+689,Japan,2002,9020,,VIE,Electronic Health Insurance Membership Card,SERD,,09/12/2002,,,,,0.0,0.5,,,0.5
+690,Japan,2002,9021,,IND,Rainwater Harvesting and Slum Development in Rajasthan,SARD,INRM,09/24/2002,,,,,0.0,1.9,,,1.9
+692,Japan,2002,9023,,CAM,Income for the Poor through Community-Based Environmental Improvements in Phnom Penh,SERD,SEHS,09/25/2002,,,,,0.0,1.0,,,1.0
+693,Japan,2002,9024/0076,,AFG,Road Employment Project for Settlement and Integration of Returning Refugees and Displaced Persons,CWRD,AFRM,10/03/2002,,,,,0.0,15.0,,,15.0
+694,Japan,2002,9025,,SRI,Infrastructure Maintenance to Reduce Rural Poverty,SARD,SAER,10/16/2002,,,,,0.0,0.9,,,0.9
+695,Japan,2002,9026,,IND,Sustaining Income and Basic Human Needs of the Poor in Disaster Prone Areas of Gujarat,SARD,INRM,11/06/2002,,,,,0.0,3.4,,,3.4
+696,Japan,2002,9027,,CAM,Improving the Livelihood of Poor Farmers in Southern Cambodia,SERD,SEER,11/11/2002,,,,,0.0,1.8,,,1.8
+697,Japan,2002,9028,,CAM,Targeted Assistance for Education of Poor Girls and Poor Children in Ethnic Minority Areas,SERD,CARM,11/25/2002,,,,,0.0,3.0,,,3.0
+698,Japan,2002,9029,,REG,"Development of a Business Plan for a Center for Learning, Information, Communication, and Knowledge for Asia and the Pacific",SDCC,,12/19/2002,,,,,0.0,0.18,,,0.18
+699,Japan,2002,9030,,AFG,Primary Health Care Partnership for the Poor,CWRD,CWPF,12/19/2002,,,,,0.0,3.0,,,3.0
+701,Japan,2003,2043/2044/0062,,SRI,Conflict Affected Areas Rehabilitation,SARD,SLRM,12/11/2003,,,,,0.0,,11.2,,11.2
+702,Japan,2003,9031,,PAK,Mobilizing the Poor for Better Access to Health,CWRD,CWPF,05/06/2003,,,,,0.0,3.4,,,3.4
+703,Japan,2003,9032,,NEP,Optimizing Productivity of Poor Water Users Associations,SARD,NRM,08/04/2003,,,,,0.0,1.0,,,1.0
+704,Japan,2003,9033,,VIE,Promoting Silk Income for the Rural Poor in Central Highlands,SERD,SEER,10/30/2003,,,,,0.0,0.62,,,0.62
+705,Japan,2003,9034,,LAO,Reducing Poverty Among Ethnic Minority Women in the Nam Ngum River Basin,SERD,SEER,11/12/2003,,,,,0.0,0.53,,,0.53
+706,Japan,2003,9035,,LAO,Solid Waste Management and Income Generation for Vientiane's Poor,SERD,SEHS,12/16/2003,,,,,0.0,1.0,,,1.0
+707,Japan,2003,9036,,REG,Improving Poor Farmers' Livelihoods through Postharvest Technology,SERD,SEER,12/18/2003,,,,,0.0,0.75,,,0.75
+708,Japan,2003,9037,,AFG,Emergency Road Rehabilitation,CWRD,CWTC,12/19/2003,,,,,0.0,20.0,,,20.0
+709,Japan,2003,9038,,AFG,Integrated Community Development in Northern Afghanistan,CWRD,AFRM,12/26/2003,,,,,0.0,3.0,,,3.0
+710,Japan,2003,9039,,AFG,Rural Recovery through Community-Based Irrigation Rehabilitation,CWRD,AFRM,12/26/2003,,,,,0.0,5.0,,,5.0
+712,Japan,2004,2123,,VIE,Support to Implementation of Poverty Reduction Program,SERD,VRM,12/09/2004,,,,,0.0,,18.0,,18.0
+714,Japan,2004,9040,,TAJ,School Improvement,CWRD,CWPF,01/13/2004,,,,,0.0,2.0,,,2.0
+715,Japan,2004,9041,,REG,Asian Bonds Online Web Site,OREI,,01/16/2004,,,,,0.0,2.4,,,2.4
+716,Japan,2004,9042,,PHI,Renewable Energy and Livelihood Development Project for the Poor in Negros Occidental,SERD,SEEN,01/19/2004,,,,,0.0,1.5,,,1.5
+717,Japan,2004,9043,,TAJ,Community Participation and Public Information Campaign for Health Improvement,CWRD,TJRM,01/22/2004,,,,,0.0,1.0,,,1.0
+718,Japan,2004,9044,,MON,Information and Communication Technology for Innovating Rural Education,EARD,,04/06/2004,,,,,0.0,1.0,,,1.0
+719,Japan,2004,9045,,SRI,Power Fund for the Poor,SARD,SLRM,04/07/2004,,,,,0.0,1.5,,,1.5
+720,Japan,2004,9046,,VIE,Poverty Reduction in Red River Basin Irrigation Systems,SERD,VRM,04/15/2004,,,,,0.0,0.82,,,0.82
+721,Japan,2004,9047,,REG,Improving Poor Farmers' Livelihoods through Rice Information Technology,SERD,,06/04/2004,,,,,0.0,1.0,,,1.0
+722,Japan,2004,9048,,CAM,Mainstreaming Labor-Based Maintenance to the National Roads Network,SERD,CARM,06/17/2004,,,,,0.0,2.2,,,2.2
+723,Japan,2004,9049,,INO,Sustainable Livelihood Development for Poor Coastal and Small Island Communities,SERD,SEER,06/17/2004,,,,,0.0,1.5,,,1.5
+724,Japan,2004,9050,,LAO,"Banking Automation to Support Outreach, Efficiency and Governance",SERD,,06/22/2004,,,,,0.0,0.65,,,0.65
+725,Japan,2004,9051,,REG,Developing a Database on Cross-Border Trade and Investment in BIMP-EAGA,SERD,,07/02/2004,,,,,0.0,0.3,,,0.3
+726,Japan,2004,9052,,REG,Sustainable Food Fortification,CWRD,CWPF,07/22/2004,,,,,0.0,2.0,,,2.0
+727,Japan,2004,9053,,MON,Information and Communication Technology for Improving Rural Health Services,EARD,,08/02/2004,,,,,0.0,1.0,,,1.0
+728,Japan,2004,9054,,UZB,Affordable Services and Water Conservation for the Urban Poor,CWRD,URM,08/24/2004,,,,,0.0,1.5,,,1.5
+729,Japan,2004,9055,,KGZ,Reducing Vulnerability of the Poor to Natural Disasters,CWRD,KYRM,09/08/2004,,,,,0.0,1.0,,,1.0
+730,Japan,2004,9056,,KGZ,Reducing Neonatal Mortality,CWRD,CWPF,09/08/2004,,,,,0.0,1.0,,,1.0
+731,Japan,2004,9057,,CAM,Health Care Financing for the Poor,SERD,SEHS,11/15/2004,,,,,0.0,1.85,,,1.85
+732,Japan,2004,9058,,VIE,Expanding Benefits of the Poor through Urban Environmental Improvements,SERD,VRM,12/02/2004,,,,,0.0,1.0,,,1.0
+733,Japan,2004,9059,,KGZ,Rural Livelihood Development,CWRD,CWEN,12/15/2004,,,,,0.0,1.0,,,1.0
+734,Japan,2004,9060,,AFG,Balkh River Basin Water Resources Management,CWRD,AFRM,12/15/2004,,,,,0.0,10.0,,,10.0
+735,Japan,2005,1391,,THA,Second Regional Roads (Sector),SERD,SEID,09/29/2005,,,,,0.0,,150.0,,150.0
+736,Japan,2005,2194,,VIE,Support to Implementation on Poverty Reduction Program II,SERD,VRM,11/03/2005,,,,,0.0,,22.8,,22.8
+737,Japan,2005,2214/7224,,INO,Tangguh Liquefied Natural Gas,PSOD,PSOP,12/08/2005,,,,,0.0,,1000.0,,1000.0
+738,Japan,2005,2228,,INO,Development Policy Support Program,SERD,IRM,12/21/2005,,,,,0.0,,100.0,,100.0
+739,Japan,2005,9061,,CAM,Improving Primary School Access in Disadvantaged Communes,SERD,CARM,01/04/2005,,,,,0.0,1.87,,,1.87
+740,Japan,2005,9062,,LAO,Sustainable Agroforestry Systems for Livelihood Enhancement of the Rural Poor,SERD,SEER,01/04/2005,,,,,0.0,1.5,,,1.5
+741,Japan,2005,9063,,MON,Maternal Mortality Reduction,EARD,EASS,02/10/2005,,,,,0.0,1.0,,,1.0
+742,Japan,2005,9064,,CAM,Improving the Access of Poor Floating Communities on the Tonle Sap to Social Infrastructure and Livelihood Activities,SERD,SEER,02/25/2005,,,,,0.0,1.0,,,1.0
+743,Japan,2005,9065,,INO,Enriching Lives of the Urban Poor through Food Fortification,SERD,SEHS,03/14/2005,,,,,0.0,1.75,,,1.75
+744,Japan,2005,9066,,MLD,Restoration of Livelihoods of the Tsunami-Affected Farmers in the Maldives,SARD,SAER,04/29/2005,,,,,0.0,1.0,,,1.0
+745,Japan,2005,9067,,PAK,Enhancing Road Improvement Benefits to Poor Communities in North-West Frontier Province,CWRD,PRM,04/28/2005,,,,,0.0,1.0,,,1.0
+746,Japan,2005,9068,,REG,Empowering the Rural Areas through Community E-Centers under the South Asia Subregional Economic Cooperation Program,SDCC,,07/05/2005,,,,,0.0,1.0,,,1.0
+747,Japan,2005,9069,,BHU,Improving the Well-Being of Road Workers,SARD,SATC,08/09/2005,,,,,0.0,0.5,,,0.5
+748,Japan,2005,9070,,PHI,Developing the Philippines Business Registry,SERD,,08/08/2005,,,,,0.0,0.7,,,0.7
+749,Japan,2005,9071,,VIE,Community-Based Agricultural Extension and Training in Mountainous Districts,SERD,SEER,08/22/2005,,,,,0.0,0.9,,,0.9
+750,Japan,2005,9072,,INO,Sustainable Livelihood Development for Coastal Communities in the Special Province of Nanggroe Aceh Darussalam,SERD,EMS,09/06/2005,,,,,0.0,2.5,,,2.5
+751,Japan,2005,9073,,INO,Rehabilitation of Coral Reef and Mangrove Resources in the Special Province of Nanggroe Aceh Darussalam,SERD,EMS,09/06/2005,,,,,0.0,1.5,,,1.5
+752,Japan,2005,9074,,INO,Seismically Upgraded Housing in Nanggroe Aceh Darussalam and North Sumatera,SERD,EMS,09/06/2005,,,,,0.0,2.0,,,2.0
+753,Japan,2005,9076,,SRI,Public Works Restoration and Rehabilitation of Line Drainage Systems of Tsunami-Affected Local Government Roads,SARD,SLRM,10/04/2005,,,,,0.0,2.0,,,2.0
+754,Japan,2005,9077,,SRI,Post-Tsunami Utility Connections for the Poor,SARD,SLRM,10/14/2005,,,,,0.0,2.0,,,2.0
+755,Japan,2005,9078,,TAJ,Community-Based Rural Road Maintenance,CWRD,CWTC,11/04/2005,,,,,0.0,1.8,,,1.8
+756,Japan,2005,9079,,INO,Restoration of Microenterprise and Microfinance in Aceh,SERD,EMS,11/28/2005,,,,,0.0,2.0,,,2.0
+757,Japan,2005,9080,,BAN,Social Development for Erosion-Affected Poor in the Jamuna-Meghna Floodplains,SARD,BRM,12/05/2005,,,,,0.0,0.79,,,0.79
+758,Japan,2005,9081,,CAM,Women's Development Centers,SERD,CARM,12/21/2005,,,,,0.0,1.8,,,1.8
+759,Japan,2005,9082,,INO,Support for the Local Government Performance Measurement System,SERD,,12/22/2005,,,,,0.0,0.73,,,0.73
+762,Japan,2006,9083,,VIE,Nutritious Food for 6-24 Month Old Children Vulnerable to Malnutrition in Poor Areas,SERD,VRM,01/17/2006,,,,,0.0,1.99,,,1.99
+763,Japan,2006,9085,,MON,Nonformal Skills Training for Unemployed Youth and Adults,EARD,EASS,02/20/2006,,,,,0.0,1.0,,,1.0
+764,Japan,2006,9087,,PHI,Supporting Information Sharing and Exchange among Civil Servants,SERD,,03/14/2006,,,,,0.0,0.5,,,0.5
+766,Japan,2006,9089,,TAJ,Community-Based Rural Power Supply,CWRD,CWEN,03/15/2006,,,,,0.0,2.0,,,2.0
+767,Japan,2006,9090,,PAK,"Iron and Folic Acid Fortification in Small-Scale Milling to Improve the Lives of the Poor, Especially Women and Children",CWRD,CWUW,03/17/2006,,,,,0.0,2.0,,,2.0
+768,Japan,2006,9091,,UZB,Basic Education for Children with Special Needs,CWRD,URM,03/17/2006,,,,,0.0,1.5,,,1.5
+769,Japan,2006,9092,,PAK,Immediate Support to Poor and Vulnerable Households in Inaccessible Areas Devastated by the 2005 Earthquake,CWRD,PRM,03/27/2006,,,,,0.0,5.0,,,5.0
+770,Japan,2006,9093,,BHU,Rural Electricians Training Program,SARD,SAEN,05/25/2006,,,,,0.0,1.0,,,1.0
+771,Japan,2006,9094,,IND,Restoration and Diversification of Livelihoods for Tsunami-Affected Poor and Marginalized People in the States of Tamil Nadu and Kerala,SARD,INRM,06/21/2006,,,,,0.0,5.0,,,5.0
+772,Japan,2006,9095,,LAO,Catalyzing Microfinance for the Poor,SERD,SEPF,08/17/2006,,,,,0.0,1.98,,,1.98
+774,Japan,2006,9097/2257/0054,,AFG,North-South Corridor,CWRD,CWTC,09/26/2006,,,,,0.0,20.0,,,20.0
+775,Japan,2006,9098,,VIE,Improving Vitamin A Nutrition and Deworming for Poor and Vulnerable Children,SERD,VRM,11/17/2006,,,,,0.0,1.0,,,1.0
+776,Japan,2006,9099,,VIE,Expansion of Learning Opportunities for Ethnic Minority Youth,SERD,VRM,11/29/2006,,,,,0.0,1.5,,,1.5
+777,Japan,2006,9100,,AFG,Rural Business Support,CWRD,AFRM,12/12/2006,,,,,0.0,18.0,,,18.0
+778,Japan,2006,9101,,NEP,Improving the Livelihoods of Poor Farmers and Disadvantaged Groups in the Eastern Development Region,SARD,SAER,12/13/2006,,,,,0.0,1.0,,,1.0
+781,Japan,2007,9103,,BHU,Rural Skills Development,SARD,SAHS,01/15/2007,,,,,0.0,1.99,,,1.99
+782,Japan,2007,9104,,KGZ,Improving Livelihoods of Rural Women through Development of Handicrafts Industry,CWRD,KYRM,01/17/2007,,,,,0.0,2.0,,,2.0
+783,Japan,2007,9105,,PAK,Microfinance for the Poorest,CWRD,CWPF,01/30/2007,,,,,0.0,2.0,,,2.0
+784,Japan,2007,9106,,MON,Community-Driven Development for Urban Poor in Ger Areas,EARD,MNRM,03/02/2007,,,,,0.0,1.5,,,1.5
+785,Japan,2007,9107,,LAO,Enhancing Capacity of Local Government Agencies and Lao Women's Union for Sustainable Poverty Reduction in Northern Lao PDR,SERD,LRM,05/11/2007,,,,,0.0,0.53,,,0.53
+786,Japan,2007,9108,,KGZ,Improving Access to Quality Basic Education for Children with Special Needs,CWRD,KYRM,05/28/2007,,,,,0.0,1.0,,,1.0
+787,Japan,2007,9109,,MON,Community-Based Heating Supply in Rural Remote Areas,EARD,EAEN,06/29/2007,,,,,0.0,2.0,,,2.0
+788,Japan,2007,9110,,NEP,Strengthening Decentralized Support for Vulnerable and Conflict-Affected Families and Children,SARD,SAHS,10/10/2007,,,,,0.0,2.0,,,2.0
+789,Japan,2007,9111,,TAJ,Sustainable Access for Isolated Rural Communities,CWRD,TJRM,10/23/2007,,,,,0.0,2.0,,,2.0
+790,Japan,2007,9112,,VIE,Thanh Hoa Province Small Scale Infrastructure Investments and Services in Urban and Peri-Urban Areas,SERD,VRM,11/27/2007,,,,,0.0,2.0,,,2.0
+791,Japan,2007,9113,,PNG,Lae Port Livelihood and Social Improvement,PARD,PNRM,12/18/2007,,,,,0.0,1.5,,,1.5
+792,Japan,2007,9114,,CAM,Building Community Capacity for Poverty Reduction Initiatives,SERD,CARM,12/19/2007,,,,,0.0,1.5,,,1.5
+793,Japan,2007,9115,,MON,Access to Health Services for Disadvantaged Groups in Ulaanbaatar,EARD,MNRM,12/19/2007,,,,,0.0,2.0,,,2.0
+797,Japan,2008,2475,,INO,Infrastructure Reform Sector Development Program - Subprogram 2,SERD,IRM,11/27/2008,,,,,0.0,,100.0,,100.0
+798,Japan,2008,2488,,INO,Fourth Development Policy Support Program,SERD,IRM,12/16/2008,,,,,0.0,,100.0,,100.0
+799,Japan,2008,9116,,SRI,Improvement of Rural Access Roads and Livelihood Development for the Poor,SARD,SLRM,01/21/2008,,,,,0.0,2.0,,,2.0
+800,Japan,2008,9117,,LAO,Alternative Livelihood for Upland Ethnic Groups in Houaphanh Province,SERD,LRM,02/13/2008,,,,,0.0,1.82,,,1.82
+802,Japan,2008,9119,,VIE,Community-Based Early Childhood Care and Development,SERD,SEHS,02/19/2008,,,,,0.0,1.9,,,1.9
+803,Japan,2008,9120,,VIE,Livelihood Improvement of Vulnerable Ethnic Minority Communities Affected by the Song Bung 4 Hydropower Project in Quang Nam Province,SERD,SEEN,06/26/2008,,,,,0.0,2.0,,,2.0
+804,Japan,2008,9121,,MON,Community-Based Local Road Upgrading and Maintenance in the Western Region of Mongolia,EARD,EATC,07/10/2008,,,,,0.0,2.0,,,2.0
+805,Japan,2008,9122,,FSM,Weno Water Supply Well Remediation,PARD,PAUS,07/17/2008,,,,,0.0,0.98,,,0.98
+806,Japan,2008,9123,,VIE,Demand-Driven Skills Training for Poverty Reduction in the Cuu Long (Mekong) River Delta,SERD,SEHS,07/18/2008,,,,,0.0,1.3,,,1.3
+807,Japan,2008,9124,,MON,Water Point and Extension Station Establishment for Poor Herding Families,EARD,EAER,07/30/2008,,,,,0.0,2.0,,,2.0
+808,Japan,2008,9125,,MON,Poverty Reduction through Community-Based Natural Resource Management,EARD,EAER,08/05/2008,,,,,0.0,2.0,,,2.0
+809,Japan,2008,9126,,TAJ,Community Participatory Flood Management,CWRD,CWER,09/08/2008,,,,,0.0,3.0,,,3.0
+810,Japan,2008,9127,,MON,Energy Conservation and Emissions Reduction from Poor Households,EARD,EAEN,09/23/2008,,,,,0.0,2.0,,,2.0
+811,Japan,2008,9128/0134,,AFG,Development of Mini Hydropower Plants in Badakshan and Bamyan Provinces,CWRD,CWEN,11/28/2008,,,,,0.0,12.0,,,12.0
+816,Japan,2009,9129,,BAN,Developing Inclusive Insurance Sector,SARD,SAPF,01/27/2009,,,,,0.0,2.0,,,2.0
+817,Japan,2009,9130,,PNG,Extending the Socioeconomic Benefits of an Improved Road Network to Roadside Communities,PARD,PATE,03/02/2009,,,,,0.0,2.0,,,2.0
+818,Japan,2009,9131,,MON,Reducing Persistent Chronic Malnutrition in Children in Mongolia,EARD,EASS,03/16/2009,,,,,0.0,2.0,,,2.0
+819,Japan,2009,9132,,INO,Rice Fortification for the Poor,SERD,IRM,03/20/2009,,,,,0.0,2.0,,,2.0
+820,Japan,2009,9133,,CAM,Piloting the Post-Harvest Technology and Skills Bridging Program for Rural Poor,SERD,CARM,04/20/2009,,,,,0.0,2.0,,,2.0
+821,Japan,2009,9134,,IND,Capacity Building and Livelihood Enhancement of Poor Water Users,SARD,SAER,06/19/2009,,,,,0.0,2.0,,,2.0
+823,Japan,2009,9136,,MON,Protecting the Health Status of the Poor During the Financial Crisis,EARD,EASS,07/30/2009,,,,,0.0,3.0,,,3.0
+824,Japan,2009,9137,,LAO,Developing Model Health Villages in Northern Lao People's Democratic Republic,SERD,LRM,08/14/2009,,,,,0.0,3.0,,,3.0
+825,Japan,2009,9138,,MON,"Early Childhood Education for Rural, Nomadic, and Migrant Children",EARD,EASS,08/28/2009,,,,,0.0,2.89,,,2.89
+826,Japan,2009,9139,,MON,Demonstration Project for Improved Electricity Services to the Low-Income Communities in Rural Areas,EARD,EAEN,09/09/2009,,,,,0.0,2.4,,,2.4
+827,Japan,2009,9140,,VIE,Formalizing Microfinance Institutions,SERD,SEPF,10/05/2009,,,,,0.0,1.5,,,1.5
+828,Japan,2009,9141,,NEP,Capacity Building for the Promotion of Legal Identity Among the Poor in Nepal,OGC,OGC,10/12/2009,,,,,0.0,2.0,,,2.0
+829,Japan,2009,9142,,TIM,Our Roads Our Future - Supporting Local Governance and Community-Based Infrastructure Works,PARD,PATE,11/20/2009,,,,,0.0,3.0,,,3.0
+830,Japan,2009,9143,,SRI,Improving Connectivity to Support Livelihoods and Gender Equality,SARD,SLRM,12/14/2009,,,,,0.0,3.0,,,3.0
+831,Japan,2009,9144,,NEP,Flour Fortification in Chakki Mills,SARD,SAER,12/09/2009,,,,,0.0,1.8,,,1.8
+838,Japan,2010,9145,,IND,Supporting Microentrepreneurship for Women's Empowerment,SARD,SAPF,05/25/2010,,,,,0.0,3.0,,,3.0
+839,Japan,2010,9146,,BHU,Farm Roads to Support Poor Farmers' Livelihoods,SARD,SAER,07/14/2010,,,,,0.0,3.0,,,3.0
+840,Japan,2010,9147,,IND,Improving Small Farmers' Access to Market in Bihar and Maharashtra,SARD,SAER,07/30/2010,,,,,0.0,3.0,,,3.0
+841,Japan,2010,9148,,RMI,Improved Energy Supply for Poor Households,PARD,PATE,08/06/2010,,,,,0.0,1.76,,,1.76
+842,Japan,2010,9149,,BHU,Upgrading Schools and Integrated Disaster Education Project,SARD,SAHS,08/12/2010,,,,,0.0,3.0,,,3.0
+843,Japan,2010,9150,,SRI,Post-Conflict Emergency Assistance for Livelihood Restoration of Resettled Internally Displaced People in the North,SARD,SLRM,08/19/2010,,,,,0.0,2.5,,,2.5
+844,Japan,2010,9151,,REG,Social Protection of the Vulnerable in the Pacific,PARD,PAUS,09/13/2010,,,,,0.0,3.0,,,3.0
+845,Japan,2010,9152,,MON,Promoting Inclusive Financial Services for the Poor,EARD,EAPF,12/17/2010,,,,,0.0,2.5,,,2.5
+918,Korea,2007,0082/8241,,LAO,Northern GMS Transport Network Improvement,SERD,,09/27/2007,,,,,0.0,,22.4,,22.4
+920,Korea,2008,2419/7276,,IND,Mundra Ultra Mega Power,PSOD,PSIF1,04/17/2008,,,,,0.0,,500.0,,500.0
+923,Korea,2010,0195,,LAO,Greater Mekong Subregion Northern Power Transmission,SERD,SEEW,01/26/2010,,,,,0.0,,37.88,,37.88
+934,Kuwait,1975,0231,,SRI,Urea Fertilizer,SARD,,09/18/1975,,,,,0.0,,25.0,,25.0
+935,Kuwait,1978,0372,,MAL,Trengganu Hydropower,SERD,SEID,12/05/1978,,,,,0.0,,14.7,,14.7
+936,Kuwait,1979,0403,,SRI,Urea Fertilizer (Supplementary),SARD,AWFN,06/21/1979,,,,,0.0,,2.09,,2.09
+937,Kuwait,1982,0587,,BAN,Ashuganj Thermal Power Generation,SARD,,10/21/1982,,,,,0.0,,35.0,,35.0
+938,Kuwait,1982,0597,,PHI,Third Road Improvement,SERD,,11/11/1982,,,,,0.0,,11.5,,11.5
+939,Kuwait,1996,1473,,PHI,Sixth Road,SERD,,09/30/1996,,,,,0.0,,27.14,,27.14
+940,Kuwait,2003,9024/0076,,AFG,Road Employment Project for Settlement and Integration of Returning Refugees and Displaced Persons (Supplementary),CWRD,,05/26/2003,,,,,0.0,15.0,,,15.0
+953,NDF,1992,1185,,PAK,Provincial Highways,CWRD,,11/05/1992,,,,,0.0,,5.4,,5.4
+955,NDF,1994,1300/2194(L),,MON,Telecommunications,EARD,EATC,06/16/1994,,,,,0.0,,6.74,,6.74
+956,NDF,1994,1329,,LAO,Theun-Hinboun Hydropower,SERD,,11/08/1994,,,,,0.0,,7.25,,7.25
+957,NDF,1994,1334,,MON,Power Rehabilitation,EARD,,11/24/1994,,,,,0.0,,5.45,,5.45
+958,NDF,1996,1430,,NEP,Himal Power,PSOD,PSOD,01/23/1996,,,,,0.0,,3.0,,3.0
+959,NDF,1996,1443,,KGZ,Power & District Heating Rehab.,CWRD,,11/01/1996,,,,,0.0,,5.2,,5.2
+960,NDF,1996,1478,,BAN,Jamuna Bridge Access Roads,SARD,SAID,08/13/1996,,,,,0.0,,2.14,,2.14
+961,NDF,1997,1532,,MLD,Third Power Systems Development,SARD,SAEN,09/01/1997,,,,,0.0,,5.1,,5.1
+962,NDF,1997,1538,,BAN,Urban Primary Health Care,SARD,SASS,09/16/1997,,,,,0.0,,1.64,,1.64
+963,NDF,1997,1558,,LAO,Power Transmission and Distribution,SERD,,09/30/1997,,,,,0.0,,6.86,,6.86
+964,NDF,1998,1655,,VIE,Vocational and Technical Education,SERD,,12/11/1998,,,,,0.0,,6.35,,6.35
+965,NDF,1999,1707,,SRI,Skills Development,SARD,SASS,10/28/1999,,,,,0.0,,6.71,,6.71
+966,NDF,1999,1708,,BAN,Southwest Road Network Development,SARD,,09/08/1999,,,,,0.0,,3.89,,3.89
+968,NDF,2000,1750,,PHI,Technical Education and Skills Development,SERD,,08/24/2000,,,,,0.0,,8.0,,8.0
+969,NDF,2000,1756,,SRI,Secondary Education Modernization,SARD,SASS,09/28/2000,,,,,0.0,,6.45,,6.45
+971,NDF,2001,1836,,MON,Social Security Sector Development Program (Investment Loan),EARD,EAGF,08/28/2001,,,,,0.0,,4.0,,4.0
+972,NDF,2001,1843,,PHI,Mindanao Basic Urban Services Sector,SERD,SESS,09/27/2001,,,,,0.0,,6.0,,6.0
+973,NDF,2001,1884-1885,,BAN,West Zone Power System Development,SARD,,12/17/2001,,,,,0.0,,10.0,,10.0
+974,NDF,2002,1908,,MON,Second Education Development,EARD,EASS,08/06/2002,,,,,0.0,,4.8,,4.8
+975,NDF,2002,1942-1943,,BAN,Dhaka Clean Fuel,SARD,SAID,11/26/2002,,,,,0.0,,9.3,,9.3
+988,Netherlands,1984,0712,,SRI,Plantation Sector,SARD,SAAE,11/01/1984,,,,,0.0,,8.3,,8.3
+989,Netherlands,1984,0714,,BAN,Second Natural Gas Development,SARD,,12/06/1984,,,,,0.0,,7.8,,7.8
+990,Netherlands,1985,0768,,INO,Second Bandung Urban Development,SERD,,12/12/1985,,,,,0.0,,6.01,,6.01
+991,Netherlands,1987,0860-0861,,INO,Third Irrigation Sector,SERD,,11/17/1987,,,,,0.0,,7.5,,7.5
+993,Netherlands,1994,1301,,PAK,Social Action Program (Sector),CWRD,,06/23/1994,,,,,0.0,,13.0,,13.0
+994,Netherlands,1994,2193(L),,IND,Energy Efficiency Support,SARD,SARD,10/27/1994,,,,,0.0,3.0,,,3.0
+995,Netherlands,1996,1381/2564,,BAN,Beneficiary Participation and Project Management,SARD,AWAR,05/02/1996,,,,,0.0,6.8,,,6.8
+997,Netherlands,1996,1493,,PAK,Social Action Program (Sector) Project II,CWRD,,11/28/1996,,,,,0.0,,35.0,,35.0
+1001,Netherlands,2001,1381/2564,,BAN,Beneficiary Participation and Project Management (Supplementary),SARD,AWAR,02/14/2001,,,,,0.0,0.2,,,0.2
+1013,Netherlands,2004,2123,,VIE,Support to Implementation of Poverty Reduction Program,SERD,VRM,12/09/2004,,,,,0.0,5.0,,,5.0
+1015,Netherlands,2005,0002,,INO,Earthquake and Tsunami Emergency Support,SERD,SEAE,04/07/2005,,,,,0.0,3.5,,,3.5
+1018,Netherlands,2005,2194,,VIE,Support to Implementation on Poverty Reduction Program II,SERD,VRM,11/03/2005,,,,,0.0,9.8,,,9.8
+1023,Netherlands,2007,2352,,VIE,Support the Implementation of Poverty Reduction Program IV,SERD,VRM,10/02/2007,,,,,0.0,16.0,,,16.0
+1027,Netherlands,2010,0228,,BHU,Rural Renewable Energy Development,SARD,,10/29/2010,,,,,0.0,0.27,,,0.27
+1028,Netherlands,2010,0233,,NEP,Raising Incomes of Small and Medium Farmers,SARD,,11/24/2010,,,,,0.0,0.49,,,0.49
+1032,New Zealand,1976,0289,,SOL,Beef Cattle Development,PARD,,12/21/1976,,,,,0.0,,0.11,,0.11
+1033,New Zealand,1977,0311,,SOL,Fisheries Development,PARD,,10/13/1977,,,,,0.0,,0.2,,0.2
+1034,New Zealand,1977,0328,,SAM,Coconut Oil Mill,PARD,,12/13/1977,,,,,0.0,,0.39,,0.39
+1035,New Zealand,1980,0507,,SAM,Forestry Development,PARD,,12/22/1980,,,,,0.0,,1.28,,1.28
+1036,New Zealand,1999,1718,,VIE,Teacher Training,SERD,SESS,11/01/1999,,,,,0.0,0.49,,,0.49
+1038,New Zealand,2006,0042,,PNG,HIV/AIDS Prevention and Control in Rural Development Enclaves,PARD,PAHQ,04/25/2006,,,,,0.0,3.5,,,3.5
+1042,New Zealand,2010,0243,,SOL,Transport Sector Development,PARD,,12/15/2010,,,,,0.0,30.0,,,30.0
+1056,NIB,1980,0505,,PAK,Load Despatch and Transmission,CWRD,,12/22/1980,,,,,0.0,,7.0,,7.0
+1057,NIB,1986,0797,,INO,Eighth Port,SERD,,11/18/1986,,,,,0.0,,14.5,,14.5
+1058,NIB,2005,2161,,LAO,Nam Theun 2 Power Company Limited for the GMS Nam Theun 2 Hydroelecric Project,PSOD,PSIF,04/04/2005,,,,,0.0,,27.0,,27.0
+1061,Norway,1980,0505,,PAK,Load Despatch and Transmission,CWRD,,12/22/1980,,,,,0.0,,3.6,,3.6
+1062,Norway,1981,0510,,BAN,Community Schools,SARD,SASS,04/21/1981,,,,,0.0,,3.0,,3.0
+1065,Norway,1982,0605,,MAL,Mini Hydropower (Sector),SERD,,11/25/1982,,,,,0.0,,2.0,,2.0
+1066,Norway,1984,0684,,BAN,Second Railway,SARD,,06/26/1984,,,,,0.0,,17.0,,17.0
+1067,Norway,1984,0712,,SRI,Plantation Sector,SARD,SAAE,12/04/1984,,,,,0.0,,5.5,,5.5
+1068,Norway,1984,0722,,BHU,Second Multiproject,SARD,,12/13/1984,,,,,0.0,,1.0,,1.0
+1069,Norway,1986,0808,,BHU,Highland Livestock Development,SARD,SAAE,12/02/1986,,,,,0.0,,3.36,,3.36
+1071,Norway,1990,1063,,LAO,Xeset Hydropower (Supplementary),SERD,,12/11/1990,,,,,0.0,,1.0,,1.0
+1072,Norway,1990,1067,,BAN,Rural Women Employment Creation,SARD,SAID,11/01/1990,,,,,0.0,0.85,,,0.85
+1073,Norway,1991,1103,,LAO,Education Quality Improvement,SERD,,09/26/1991,,,,,0.0,2.0,,,2.0
+1075,Norway,1991,1141,,NEP,Primary Education Development,SARD,,12/05/1991,,,,,0.0,,1.4,,1.4
+1076,Norway,1993,1254,,PHI,Nonformal Education,SERD,,09/30/1993,,,,,0.0,1.6,,,1.6
+1079,Norway,1994,1300/2194(L),,MON,Telecommunications,EARD,EATC,06/16/1994,,,,,0.0,2.0,,,2.0
+1080,Norway,1994,1300/2194(L),,MON,Telecommunications,EARD,EATC,06/16/1994,,,,,0.0,3.0,,,3.0
+1081,Norway,1994,1327/2277(L),,INO,Microcredit,SERD,SEAE,10/25/1994,,,,,0.0,1.0,,,1.0
+1082,Norway,1994,1329,,LAO,Theun-Hinboun Hydropower,SERD,,11/08/1994,,,,,0.0,,7.25,,7.25
+1083,Norway,1996,1430,,NEP,Himal Power,PSOD,PSOD,01/23/1996,,,,,0.0,,8.3,,8.3
+1085,Norway,1997,1525,,LAO,Secondary Towns Urban Development,SERD,SESS,06/26/1997,,,,,0.0,4.07,,,4.07
+1086,Norway,1997,1575,,SRI,Third Water Supply and Sanitation Sector,SARD,SASS,11/01/1997,,,,,0.0,7.27,,,7.27
+1087,Norway,1998,1603,,BAN,Grameenphone Telecommunications,PSOD,PSOD,11/01/1998,,,,,0.0,,11.0,,11.0
+1088,Norway,1999,1702,,VIE,Ho Chi Minh City Environmental Improvement,SERD,,10/07/1999,,,,,0.0,1.8,,,1.8
+1089,Norway,2000,1558,,LAO,Power Transmission and Distribution,SERD,,01/03/2000,,,,,0.0,,5.99,,5.99
+1092,Norway,2004,2078,,BAN,Grameen Phone Telecommunications Expansion,PSOD,PSIF,01/26/2004,,,,,0.0,,10.0,,10.0
+1093,Norway,2005,0016/8219,,LAO,Northern and Central Regions Water Supply and Sanitation Sector,SERD,SESS,08/25/2005,,,,,0.0,1.7,,,1.7
+1097,Norway,2008,0118/0206,,NEP,Governance Support Program Cluster (Subprogram 1),SARD,SAGF,10/22/2008,,,,,0.0,6.6,,,6.6
+1102,OFID,1972,0118/8002,,SRI,Bowatenna Power,SARD,SAID,12/19/1972,,,,,0.0,,3.15,,3.15
+1104,OFID,1973,0162/8001,,MYA,Rangoon Water Supply,SERD,SESS,12/11/1973,,,,,0.0,,1.28,,1.28
+1105,OFID,1973,0171-0172,,PAK,Multan Fertilizer,CWRD,,12/19/1973,,,,,0.0,,11.0,,11.0
+1107,OFID,1977,0332/8010,,PAK,Tarbela Hydropower (Supplementary & Extension),CWRD,SAEN,12/15/1977,,,,,0.0,,13.0,,13.0
+1108,OFID,1977,0334/8009,,NEP,Sagarnath Forestry Development,SARD,SAAE,12/20/1977,,,,,0.0,,3.0,,3.0
+1109,OFID,1978,0048/8008,,VIE,Fisheries Development,SERD,SEER,04/26/1978,,,,,0.0,,7.0,,7.0
+1110,OFID,1978,0349,,MYA,Pyinmana Integrated Sugar,SERD,SEFN,08/22/1978,,,,,0.0,,6.5,,6.5
+1113,OFID,1978,0390-0391,,PAK,Pipri Thermal Generation,CWRD,,12/22/1978,,,,,0.0,,15.7,,15.7
+1114,OFID,1979,0395,,MYA,Sedawgyi Hydropower,SERD,SEID,04/24/1979,,,,,0.0,,2.0,,2.0
+1115,OFID,1979,0396,,BAN,Ashuganj Fertilizer (Supplementary),SARD,BRM,04/26/1979,,,,,0.0,,10.0,,10.0
+1116,OFID,1979,0406,,PHI,Bukidnon Irrigation,SERD,,07/26/1979,,,,,0.0,,3.5,,3.5
+1117,OFID,1979,0436,,SRI,Rural Electrification,SARD,SAID,12/10/1979,,,,,0.0,,6.0,,6.0
+1118,OFID,1979,0440,,THA,Mae Moh (Unit 4) Power,SERD,SEID,12/14/1979,,,,,0.0,,7.0,,7.0
+1124,OFID,1981,0513,,MLD,Inter-Island Transport,SARD,,08/18/1981,,,,,0.0,,0.88,,0.88
+1126,OFID,1981,0549,,MYA,Crop Intensification Program,SERD,SEAE,11/25/1981,,,,,0.0,,15.0,,15.0
+1127,OFID,1981,0551,,PNG,Technical Education,PARD,,11/26/1981,,,,,0.0,,4.0,,4.0
+1174,OFID,2005,0016/8219,,LAO,Northern and Central Regions Water Supply and Sanitation Sector,SERD,SESS,08/25/2005,,,,,0.0,,9.0,,9.0
+1175,OFID,2006,0051/8231,,NEP,Road Connectivity Sector I,SARD,,08/10/2006,,,,,0.0,,10.0,,10.0
+1179,OFID,2007,0082/8241,,LAO,Northern GMS Transport Network Improvement,SERD,,09/27/2007,,,,,0.0,,11.0,,11.0
+1180,OFID,2007,0093/8234,,NEP,Rural Reconstruction and Rehabilitation Sector Development Program,SARD,,12/12/2007,,,,,0.0,,10.0,,10.0
+1182,OFID,2007,2398-2399/0102,,PNG,Lae Port Development,PARD,PAHQ,12/18/2007,,,,,0.0,,6.0,,6.0
+1188,OFID,2010,0234/8255,,LAO,Second Northern Greater Mekong Subregion Transport Network Improvement,SERD,,11/25/2010,,,,,0.0,,12.0,,12.0
+1210,P.R.C.,2002,1989,,LAO,GMS: Northern Economic Corridor,SERD,SEID,12/20/2002,,,,,0.0,,30.0,,30.0
+1212,P.R.C.,2009,2505/7291,,PRC,Small Hydropower Development,PSOD,PSIF2,01/13/2009,,,,,0.0,,14.6,,14.6
+1218,Saudi Arabia,1975,0252-0253,,PAK,Mirpur Mathelo Fertilizer,CWRD,,12/18/1975,,,,,0.0,,80.0,,80.0
+1219,Saudi Arabia,1976,0277,,INO,Second Road,SERD,,10/28/1976,,,,,0.0,,50.0,,50.0
+1220,Saudi Arabia,1978,0390-0391,,PAK,Pipri Thermal Generation,CWRD,,12/22/1978,,,,,0.0,,92.0,,92.0
+1221,Saudi Arabia,1979,0440,,THA,Mae Moh (Unit 4) Power,SERD,SEID,12/14/1979,,,,,0.0,,32.2,,32.2
+1222,Saudi Arabia,1981,0516,,PAK,Pipri II Thermal Generation,CWRD,,06/23/1981,,,,,0.0,,46.0,,46.0
+1223,Saudi Arabia,1981,0541,,BAN,Chittagong Urea Fertilizer,SARD,BRM,11/01/1981,,,,,0.0,,85.0,,85.0
+1224,Saudi Arabia,1984,0685,,INO,Arakundo-Jambu Aye Irrigation & Flood Control,SERD,,07/05/1984,,,,,0.0,,26.5,,26.5
+1225,Saudi Arabia,1984,0688,,INO,Seventh Port (Surabaya Phase II),SERD,,08/28/1984,,,,,0.0,,20.0,,20.0
+1226,Saudi Arabia,1984,0689,,MAL,Third Penang Port Expansion,SERD,,08/28/1984,,,,,0.0,,30.0,,30.0
+1256,Singapore,1987,0875,,PHI,Second Manila Port,SERD,,12/15/1987,,,,,0.0,,1.7,,1.7
+1259,Spain,1998,1599,,PHI,Subic Bay Area Municipal Development,SERD,,03/02/1998,,,,,0.0,1.0,,,1.0
+1260,Spain,2005,2194,,VIE,Support to Implementation on Poverty Reduction Program II,SERD,VRM,11/03/2005,,,,,0.0,2.4,,,2.4
+1261,Spain,2006,2262,,VIE,Support the Implementation of Poverty Reduction Program III,SERD,VRM,10/05/2006,,,,,0.0,3.8,,,3.8
+1262,Spain,2007,2352,,VIE,Support the Implementation of Poverty Reduction Program IV,SERD,VRM,10/02/2007,,,,,0.0,7.0,,,7.0
+1267,Sri Lanka,2002,1910-1911,,SRI,Aquatic Resources Development and Quality Improvement,SARD,SAAE,09/05/2002,,,,,0.0,,1.6,,1.6
+1269,Sweden,1980,0505,,PAK,Load Despatch and Transmission,CWRD,,12/22/1980,,,,,0.0,,4.3,,4.3
+1270,Sweden,1982,0585,,SRI,Technical Education,SARD,,09/30/1982,,,,,0.0,,2.93,,2.93
+1271,Sweden,1987,0846,,LAO,Xeset Hydropower,SERD,,10/27/1987,,,,,0.0,,17.04,,17.04
+1272,Sweden,1990,1063,,LAO,Xeset Hydropower (Supplementary),SERD,,12/11/1990,,,,,0.0,,6.23,,6.23
+1273,Sweden,1992,1199,,CAM,Special Rehabilitation Assistance,SERD,,11/26/1992,,,,,0.0,3.2,,,3.2
+1275,Sweden,1998,1663-1665,,PHI,Metro Manila Air Quality Improvement Sector Dev. Program,SERD,SEOC,12/16/1998,,,,,0.0,0.6,,,0.6
+1276,Sweden,1998,1663-1665,,PHI,Metro Manila Air Quality Improvement Sector Dev. Program,SERD,SEOC,12/16/1998,,,,,0.0,,4.5,,4.5
+1291,Switzerland,1979,0396,,BAN,Ashuganj Fertilizer (Supplementary),SARD,BRM,04/26/1979,,,,,0.0,,5.0,,5.0
+1292,Switzerland,1979,0440,,THA,Mae Moh (Unit 4) Power,SERD,SEID,12/14/1979,,,,,0.0,,6.5,,6.5
+1293,Switzerland,1980,0502,,THA,Power System Expansion,SERD,,12/19/1980,,,,,0.0,,1.75,,1.75
+1294,Switzerland,1982,0577,,INO,Second Agricultural Credit Package,SERD,,07/29/1982,,,,,0.0,,0.43,,0.43
+1296,Switzerland,1984,0717,,THA,Mae Moh (Unit 8) Power,SERD,,12/11/1984,,,,,0.0,,11.5,,11.5
+1297,Switzerland,1985,0736,,THA,Shelter Sector,SERD,,04/23/1985,,,,,0.0,,0.58,,0.58
+1298,Switzerland,1985,0760,,PAK,Tarbela Units 13 & 14 and 500 kV Transmission,CWRD,,11/28/1985,,,,,0.0,,9.4,,9.4
+1299,Switzerland,1988,0928,,LAO,Nam-Ngum Luang Prabang Power Transmission,SERD,,12/06/1988,,,,,0.0,,0.96,,0.96
+1301,Switzerland,1989,0976,,PAK,Swabi Salinity Control and Reclamation Project,CWRD,,10/26/1989,,,,,0.0,,15.1,,15.1
+1302,Switzerland,1989,0993,,SRI,Agriculture Rehabilitation,SARD,SAAE,11/28/1989,,,,,0.0,,4.5,,4.5
+1303,Switzerland,1996,1443,,KGZ,Power & District Heating Rehab.,CWRD,,06/06/1996,,,,,0.0,4.6,,,4.6
+1304,Switzerland,2000,1817,,TAJ,Power Rehabilitation,CWRD,,12/20/2000,,,,,0.0,6.0,,,6.0
+1307,Switzerland,2007,0093/8234,,NEP,Rural Reconstruction and Rehabilitation Sector Development Program,SARD,,12/12/2007,,,,,0.0,1.5,,,1.5
+1308,Switzerland,2008,0118/0206,,NEP,Governance Support Program Cluster (Subprogram 1),SARD,SAGF,10/22/2008,,,,,0.0,3.4,,,3.4
+1318,Thailand,1999,1727-1728,,REG,GMS: East-West Corridor (LAO and VIE),SERD,SEID,12/20/1999,,,,,0.0,,25.0,,25.0
+1319,Thailand,2002,1989,,LAO,GMS: Northern Economic Corridor,SERD,SEID,12/20/2002,,,,,0.0,,28.5,,28.5
+1321,TRACECA,2000,1774-1775,,REG,Almaty-Bishkek Regional Road Rehabilitation (KAZ and KGZ Components),CWRD,CWID,10/31/2000,,,,,0.0,0.8,,,0.8
+1326,UAE,1981,0541,,BAN,Chittagong Urea Fertilizer,SARD,AWFN,11/17/1981,,,,,0.0,,25.0,,25.0
+1341,UNCDF,1976,0293,,BAN,Serajgonj Integrated Rural Development,SARD,SAAE,12/23/1976,,,,,0.0,2.15,,,2.15
+1342,UNCDF,1986,0790,,BHU,Roadworks Mechanization,SARD,,09/30/1986,,,,,0.0,,1.2,,1.2
+1343,UNCDF,1988,0911,,MLD,Male Port Development,SARD,,10/20/1988,,,,,0.0,,4.1,,4.1
+1344,UNCDF,2008,0118/0206,,NEP,Governance Support Program Cluster (Subprogram 1),SARD,SAGF,10/22/2008,,,,,0.0,2.25,,,2.25
+1346,UNDP,1971,0068,,SAM,Beef Cattle Pilot Farm,PARD,,05/27/1971,,,,,0.0,0.1,,,0.1
+1347,UNDP,1974,0213,,BAN,Jute Seed,SARD,AWFN,12/19/1974,,,,,0.0,1.1,,,1.1
+1348,UNDP,1974,0215,,BAN,Bangladesh Railway,SARD,,12/23/1974,,,,,0.0,0.72,,,0.72
+1349,UNDP,1978,0361,,LAO,Forestry Development,SERD,SEAE,10/24/1978,,,,,0.0,0.59,,,0.59
+1351,UNDP,1979,0404,,BAN,Chittagong Hill Tracts Development,SARD,SAAE,06/28/1979,,,,,0.0,0.71,,,0.71
+1352,UNDP,1979,0418,,LAO,Casier Sud Pioneer Agricultural,SERD,SEAE,10/29/1979,,,,,0.0,0.86,,,0.86
+1353,UNDP,1979,0445,,NEP,Livestock Development,SARD,SAAE,12/19/1979,,,,,0.0,0.7,,,0.7
+1355,UNDP,1980,0453,,LAO,Agricultural Support Facilities,SERD,SEAE,03/20/1980,,,,,0.0,0.63,,,0.63
+1356,UNDP,1980,0462,,NEP,Aquaculture Development,SARD,SAAE,08/28/1980,,,,,0.0,1.37,,,1.37
+1357,UNDP,1980,0486,,SIN,Vocational and Industrial Training,SERD,,11/27/1980,,,,,0.0,0.53,,,0.53
+1358,UNDP,1980,0489,,NEP,Fourth Agricultural Credit,SARD,SAAE,09/12/1980,,,,,0.0,1.1,,,1.1
+1359,UNDP,1980,0490,,NEP,Hill Irrigation (Western Region),SARD,SAAE,12/09/1980,,,,,0.0,0.9,,,0.9
+1360,UNDP,1981,0512,,NEP,Mini Hydropower,SARD,SAID,04/21/1981,,,,,0.0,0.75,,,0.75
+1361,UNDP,1981,0533,,NEP,Fourth Power,SARD,,11/01/1981,,,,,0.0,1.0,,,1.0
+1362,UNDP,1981,0555,,BAN,Community Forestry,SARD,SAAE,12/03/1981,,,,,0.0,1.84,,,1.84
+1363,UNDP,1981,0560,,NEP,Command Area Development,SARD,SAAE,12/15/1981,,,,,0.0,1.2,,,1.2
+1364,UNDP,1982,0573,,MYA,Second Forestry,SERD,SEAE,06/29/1982,,,,,0.0,0.65,,,0.65
+1365,UNDP,1982,0585,,SRI,Technical Education,SARD,,09/30/1982,,,,,0.0,0.7,,,0.7
+1366,UNDP,1982,0596,,NEP,Second Hill Irrigation,SARD,SAAE,11/04/1982,,,,,0.0,1.37,,,1.37
+1367,UNDP,1982,0599,,NEP,Science Education,SARD,,11/18/1982,,,,,0.0,2.0,,,2.0
+1368,UNDP,1982,0618,,THA,Songkhla Lake Basin Planning Study,SERD,,12/21/1982,,,,,0.0,0.5,,,0.5
+1369,UNDP,1983,0643,,LAO,Vientiane Plain Road Improvement,SERD,,10/11/1983,,,,,0.0,0.49,,,0.49
+1370,UNDP,1983,0657,,BAN,Bangladesh Krishi Bank,SARD,SAAE,11/29/1983,,,,,0.0,0.3,,,0.3
+1371,UNDP,1983,0671,,BAN,Ganges-Kobadak Rehabilitation & Improvement,SARD,SAAE,12/14/1983,,,,,0.0,1.4,,,1.4
+1372,UNDP,1983,0672,,BAN,Health and Family Planning Services,SARD,,12/14/1983,,,,,0.0,0.21,,,0.21
+1373,UNDP,1984,0684,,BAN,Second Railway,SARD,,06/26/1984,,,,,0.0,0.99,,,0.99
+1374,UNDP,1984,0699,,BAN,Secondary Science Education Sector,SARD,,10/23/1984,,,,,0.0,3.0,,,3.0
+1375,UNDP,1984,0707,,SAM,Development Bank of Western Samoa V,PARD,,11/15/1984,,,,,0.0,0.05,,,0.05
+1376,UNDP,1984,0710,,PAK,Health and Population II,CWRD,,11/29/1984,,,,,0.0,0.5,,,0.5
+1377,UNDP,1985,0733,,BAN,Second Livestock Development,SARD,SAAE,02/05/1985,,,,,0.0,3.5,,,3.5
+1378,UNDP,1985,0744,,NEP,Cotton Development,SARD,SAAE,10/24/1985,,,,,0.0,1.4,,,1.4
+1379,UNDP,1985,0745,,NEP,Second Livestock Development,SARD,SAAE,10/24/1985,,,,,0.0,1.6,,,1.6
+1380,UNDP,1985,0749,,NEP,Third Forestry Development,SARD,,10/31/1985,,,,,0.0,0.32,,,0.32
+1381,UNDP,1985,0761,,PAK,Second Telecommunications,CWRD,,11/28/1985,,,,,0.0,1.6,,,1.6
+1382,UNDP,1986,0777,,MYA,Edible Oil,SERD,SEAE,02/04/1986,,,,,0.0,0.68,,,0.68
+1383,UNDP,1986,0788,,LAO,Second Road Improvement,SERD,,09/16/1986,,,,,0.0,1.2,,,1.2
+1384,UNDP,1986,0790,,BHU,Roadworks Mechanization,SARD,,09/30/1986,,,,,0.0,1.55,,,1.55
+1385,UNDP,1986,0791,,PAK,Cotton Development,CWRD,,09/30/1986,,,,,0.0,4.1,,,4.1
+1387,UNDP,1986,0810,,PAK,Second Agricultural Dev. Bank of Pakistan,CWRD,,12/04/1986,,,,,0.0,0.96,,,0.96
+1388,UNDP,1986,0819,,BAN,Khulna Coastal Embankment,SARD,SAAE,12/11/1986,,,,,0.0,1.2,,,1.2
+1389,UNDP,1986,0821,,BAN,Second Aquaculture Development,SARD,,12/16/1986,,,,,0.0,2.65,,,2.65
+1390,UNDP,1987,0831,,NEP,Fifth Agricultural Credit (ADB IV),SARD,,04/07/1987,,,,,0.0,0.2,,,0.2
+1391,UNDP,1987,0839,,BAN,Road Improvement,SARD,,08/27/1987,,,,,0.0,1.2,,,1.2
+1392,UNDP,1987,0845,,PRC,China Investment Bank,EARD,,10/08/1987,,,,,0.0,0.4,,,0.4
+1393,UNDP,1987,0846,,LAO,Xeset Hydropower,SERD,,10/27/1987,,,,,0.0,1.76,,,1.76
+1394,UNDP,1987,0851,,PAK,Fruit and Vegetable Marketing,CWRD,,10/29/1987,,,,,0.0,1.0,,,1.0
+1395,UNDP,1987,0859,,NEP,Hill Fruit Development,SARD,AWFN,11/10/1987,,,,,0.0,1.04,,,1.04
+1396,UNDP,1987,0864,,SRI,Second Road Improvement,SARD,,11/24/1987,,,,,0.0,0.15,,,0.15
+1397,UNDP,1987,0866,,LAO,Third Road Improvement,SERD,,11/24/1987,,,,,0.0,1.13,,,1.13
+1398,UNDP,1987,0880,,PRC,Fuel Conversion,EARD,,12/21/1987,,,,,0.0,0.35,,,0.35
+1399,UNDP,1988,0882,,BAN,Flood Rehabilitation (Flood Control & Rehab),SARD,,02/04/1988,,,,,0.0,0.08,,,0.08
+1401,UNDP,1989,0956,,BAN,Upazila Afforestation and Nursery Development,SARD,AWFN,03/30/1989,,,,,0.0,1.9,,,1.9
+1402,UNDP,1989,1005,,FIJ,Low Income Housing Development,PARD,,12/21/1989,,,,,0.0,0.3,,,0.3
+1403,UNDP,1989,1009,,LAO,Fourth Road Improvement,SERD,SEID,12/21/1989,,,,,0.0,0.3,,,0.3
+1404,UNDP,1989,1010,,BAN,Horticulture Development,SARD,SAAE,12/21/1989,,,,,0.0,2.8,,,2.8
+1406,UNDP,1990,1035,,BHU,Technical and Vocational Education and Training,SARD,,09/27/1990,,,,,0.0,2.1,,,2.1
+1407,UNDP,1990,1063,,LAO,Xeset Hydropower (Supplementary),SERD,,12/11/1990,,,,,0.0,0.88,,,0.88
+1408,UNDP,1991,1112,,NEP,Sixth Agricultural Credit,SARD,AWAR,10/31/1991,,,,,0.0,0.69,,,0.69
+1409,UNDP,1991,1123,,BAN,Higher Secondary Education,SARD,,11/21/1991,,,,,0.0,2.9,,,2.9
+1410,UNDP,1999,1703,,PNG,Financial Management,PARD,,10/21/1999,,,,,0.0,0.5,,,0.5
+1411,UNDP,2002,1939,,CAM,Tonle Sap Environmental Management,SERD,SEAE,11/21/2002,,,,,0.0,0.61,,,0.61
+1412,UNDP,2008,0118/0206,,NEP,Governance Support Program Cluster (Subprogram 1),SARD,SAGF,10/22/2008,,,,,0.0,4.7,,,4.7
+1414,UNFPA,1997,1538,,BAN,Urban Primary Health Care,SARD,SASS,09/16/1997,,,,,0.0,4.24,,,4.24
+1415,UNFPA,2000,1777,,VIE,Rural Health,SERD,SESS,11/09/2000,,,,,0.0,0.5,,,0.5
+1417,UNFPA,2008,0118/0206,,NEP,Governance Support Program Cluster (Subprogram 1),SARD,SAGF,10/22/2008,,,,,0.0,9.15,,,9.15
+1419,UNICEF,1976,0293,,BAN,Serajgonj Integrated Rural Development,SARD,SAAE,12/23/1976,,,,,0.0,0.2,,,0.2
+1420,UNICEF,1996,1446,,CAM,Basic Education Textbooks,SERD,SESS,06/20/1996,,,,,0.0,5.19,,,5.19
+1421,UNICEF,2000,1777,,VIE,Rural Health,SERD,SESS,11/09/2000,,,,,0.0,1.0,,,1.0
+1422,UNICEF,2008,0118/0206,,NEP,Governance Support Program Cluster (Subprogram 1),SARD,SAGF,10/22/2008,,,,,0.0,13.9,,,13.9
+1429,United Nations Volunteers,2008,0118/0206,,NEP,Governance Support Program Cluster (Subprogram 1),SARD,SAGF,10/22/2008,,,,,0.0,0.5,,,0.5
+1431,UNODC,1999,1688,,LAO,Shifting Cultivation Stabilization Pilot,SERD,SEAE,05/11/1999,,,,,0.0,2.1,,,2.1
+1439,U.K.,1976,0279-0280,,PAK,Port Qasim,CWRD,,11/18/1976,,,,,0.0,,21.84,,21.84
+1440,U.K.,1976,0289,,SOL,Beef Cattle Development,PARD,,12/21/1976,,,,,0.0,,0.52,,0.52
+1441,U.K.,1978,0345,,FIJ,Second Power,PARD,PARD,06/29/1978,,,,,0.0,,9.1,,9.1
+1442,U.K.,1981,0536,,FIJ,Third Power,PARD,,11/10/1981,,,,,0.0,,12.11,,12.11
+1443,U.K.,1982,0585,,SRI,Technical Education,SARD,,09/30/1982,,,,,0.0,0.19,,,0.19
+1444,U.K.,1984,0683,,BAN,Sixth Power (Sector Loan),SARD,,06/14/1984,,,,,0.0,,22.2,,22.2
+1446,U.K.,1984,0712,,SRI,Plantation Sector,SARD,SAAE,12/04/1984,,,,,0.0,,5.5,,5.5
+1447,U.K.,1987,0850,,PAK,Third Health,CWRD,,10/29/1987,,,,,0.0,,3.7,,3.7
+1448,U.K.,1987,0858,,BAN,"Padma Textile Mills, Ltd.",SARD,,11/10/1987,,,,,0.0,,2.5,,2.5
+1449,U.K.,1988,0893,,IND,"Andhra Petrochemicals, Ltd.",SARD,,11/01/1988,,,,,0.0,,3.2,,3.2
+1451,U.K.,1989,0963,,BAN,Eighth Power,SARD,SAID,07/11/1989,,,,,0.0,,98.0,,98.0
+1452,U.K.,1989,1001,,PAK,Karachi Sewerage,CWRD,SAAE,12/14/1989,,,,,0.0,,2.4,,2.4
+1453,U.K.,1989,1003,,PAK,"Fauji Fertilizer Co., Ltd.",PSOD,PSOD,12/19/1989,,,,,0.0,,15.0,,15.0
+1454,U.K.,1991,1085,,PHI,Shemberg Biotech Corporation,SERD,,06/06/1991,,,,,0.0,,4.7,,4.7
+1455,U.K.,1991,1101,,PAK,Kotri Barrage Rehabilitation,CWRD,,09/26/1991,,,,,0.0,,15.8,,15.8
+1456,U.K.,1991,1142,,IND,CESC Limited II,SARD,,12/13/1991,,,,,0.0,,32.0,,32.0
+1457,U.K.,1992,1161,,IND,Power Efficiency (Sector),SARD,,03/26/1992,,,,,0.0,,88.73,,88.73
+1458,U.K.,1992,1196,,NEP,Secondary Education Development,SARD,NRM,11/24/1992,,,,,0.0,6.3,,,6.3
+1459,U.K.,1993,1227,,INO,P.T. Wiraswasta Gemilang Indonesia,SERD,,04/22/1993,,,,,0.0,,20.0,,20.0
+1460,U.K.,1993,1230,,PHI,Hopewell Power (Philippines) Corp.,PSOD,PSOD,05/18/1993,,,,,0.0,,35.0,,35.0
+1461,U.K.,1993,1252,,PHI,Bukidnon Resources Co. Inc.,SERD,,09/21/1993,,,,,0.0,,6.8,,6.8
+1462,U.K.,1993,1255,,PAK,Fauji Oil Terminal & Distribution Co.Ltd.,PSOD,,09/30/1993,,,,,0.0,,18.0,,18.0
+1463,U.K.,1993,1263,,PHI,"Primofina Oleochemicals, Inc",PSOD,,11/09/1993,,,,,0.0,,10.0,,10.0
+1464,U.K.,1996,1473,,PHI,Sixth Road,SERD,,09/30/1996,,,,,0.0,0.2,,,0.2
+1465,U.K.,1996,1493,,PAK,Social Action Program (Sector) Project II,CWRD,,11/28/1996,,,,,0.0,,30.0,,30.0
+1466,U.K.,1997,1597,,BAN,Lafarge Surma Cement Ltd,PSOD,,12/18/1997,,,,,0.0,,30.5,,30.5
+1467,U.K.,1998,1603,,BAN,Grameenphone Telecommunications,PSOD,PSOD,01/20/1998,,,,,0.0,,31.6,,31.6
+1468,U.K.,1999,1689,,SRI,South Asia Gateway Terminals (Private) Limited for the Colombo Port Development,PSOD,PSOD,05/11/1999,,,,,0.0,,35.0,,35.0
+1476,U.K.,2004,2123,,VIE,Support to Implementation of Poverty Reduction Program,SERD,VRM,12/09/2004,,,,,0.0,36.0,,,36.0
+1480,U.K.,2005,2194,,VIE,Support to Implementation on Poverty Reduction Program II,SERD,VRM,11/03/2005,,,,,0.0,35.9,,,35.9
+1483,U.K.,2006,2262,,VIE,Support the Implementation of Poverty Reduction Program III,SERD,VRM,10/05/2006,,,,,0.0,37.0,,,37.0
+1484,U.K.,2007,2352,,VIE,Support the Implementation of Poverty Reduction Program IV,SERD,VRM,10/02/2007,,,,,0.0,40.0,,,40.0
+1485,U.K.,2008,0093/8234,,NEP,Rural Reconstruction and Rehabilitation Sector Development (Supplementary),SARD,,11/11/2008,,,,,0.0,20.0,,,20.0
+1486,U.K.,2008,0118/0206,,NEP,Governance Support Program Cluster (Subprogram 1),SARD,SAGF,10/22/2008,,,,,0.0,30.0,,,30.0
+1502,U.S.A.,1979,0396,,BAN,Ashuganj Fertilizer (Supplementary),SARD,BRM,04/26/1979,,,,,0.0,,23.0,,23.0
+1503,U.S.A.,1983,0660,,PAK,Guddu Combined Cycle,CWRD,,11/01/1983,,,,,0.0,,52.0,,52.0
+1504,U.S.A.,1986,0824,,PAK,WAPDA Tenth Power (Sector),CWRD,,11/01/1986,,,,,0.0,,60.0,,60.0
+1505,U.S.A.,1990,1070,,BAN,Small and Cottage Industry,SARD,,12/18/1990,,,,,0.0,,0.27,,0.27
+1506,U.S.A.,1990,1071,,BAN,Agriculture and Rural Credit,SARD,SAGF,11/01/1990,,,,,0.0,,3.0,,3.0
+1507,U.S.A.,1992,1161,,IND,Power Efficiency (Sector),SARD,,11/01/1992,,,,,0.0,,14.0,,14.0
+1508,U.S.A.,1994,1311,,NEP,Irrigation Management Transfer,SARD,SAAE,11/01/1994,,,,,0.0,4.6,,,4.6
+1509,U.S.A.,1998,1605,,INO,Central Sulawesi Integrated Area Dev & Conservation,SERD,SEAE,01/27/1998,,,,,0.0,1.37,,,1.37
+1510,U.S.A.,1998,1663-1665,,PHI,Metro Manila Air Quality Improvement Sector Dev. Program,SERD,SEOC,12/16/1998,,,,,0.0,0.89,,,0.89
+1511,U.S.A.,1999,1694,,RMI,Ebeye Health and Infrastructure,PARD,,08/12/1999,,,,,0.0,0.47,,,0.47
+1512,U.S.A.,2000,1739,,PHI,Grains Sector Development Program,SERD,SERD,04/24/2000,,,,,0.0,0.6,,,0.6
+1513,U.S.A.,2000,1746,,PHI,Pasig River Environmental Management and Rehabilitation SDP (Investment Loan),SERD,,07/20/2000,,,,,0.0,0.5,,,0.5
+1517,WFP,2000,1824,,CAM,Emergency Flood Rehabilitation,SERD,SEOC,12/21/2000,,,,,0.0,1.1,,,1.1
+1523,WHO,1980,0504,,BAN,Public Health Program,SARD,,12/22/1980,,,,,0.0,0.15,,,0.15
+1524,WHO,2000,1777,,VIE,Rural Health,SERD,SESS,11/09/2000,,,,,0.0,0.3,,,0.3
+1525,WHO,2005,0025-0027,,REG,GMS: Regional Communicable Diseases Control,SERD,SESS,11/21/2005,,,,,0.0,0.9,,,0.9
+1526,WHO,2010,0236,,MON,Fourth Health Sector Development,EARD,,11/29/2010,,,,,0.0,0.45,,,0.45
+1531,World Bank,1973,0137,,THA,Bangkok Water Supply,SERD,SESS,07/24/1973,,,,,0.0,,55.0,,55.0
+1534,World Bank,1978,0345,,FIJ,Second Power,PARD,PARD,06/29/1978,,,,,0.0,,15.6,,15.6
+1535,World Bank,1978,0351,,PHI,Second Manila Water Supply,SERD,,09/07/1978,,,,,0.0,,85.0,,85.0
+1536,World Bank,1979,0396,,BAN,Ashuganj Fertilizer (Supplementary),SARD,BRM,04/26/1979,,,,,0.0,,29.0,,29.0
+1537,World Bank,1980,0457,,PHI,Manila Sewerage,SERD,,06/24/1980,,,,,0.0,,63.0,,63.0
+1538,World Bank,1980,0459,,INO,Second Java EHV Transmission,SERD,SEID,06/26/1980,,,,,0.0,,90.5,,90.5
+1539,World Bank,1980,0485,,SAM,Agricultural Development,PARD,,11/27/1980,,,,,0.0,,2.0,,2.0
+1540,World Bank,1980,0505,,PAK,Load Despatch and Transmission,CWRD,,12/22/1980,,,,,0.0,,45.0,,45.0
+1541,World Bank,1980,0508,,SOL,Development Bank of Solomon Islands,PARD,,12/22/1980,,,,,0.0,,1.5,,1.5
+1542,World Bank,1981,0541,,BAN,Chittagong Urea Fertilizer,SARD,BRM,11/01/1981,,,,,0.0,,15.0,,15.0
+1543,World Bank,1982,0570,,PAK,Telecommunications,CWRD,,06/17/1982,,,,,0.0,,40.0,,40.0
+1544,World Bank,1982,0587,,BAN,Ashuganj Thermal Power Generation,SARD,,10/21/1982,,,,,0.0,,92.0,,92.0
+1545,World Bank,1982,0613,,THA,Second Power System Expansion,SERD,SEID,12/09/1982,,,,,0.0,,4.96,,4.96
+1546,World Bank,1983,0632,,VAN,Agricultural Extension and Training,PARD,,08/04/1983,,,,,0.0,,2.0,,2.0
+1547,World Bank,1983,0646,,SOL,Agricultural Development,PARD,,10/29/1983,,,,,0.0,,3.5,,3.5
+1548,World Bank,1984,0680,,PHI,Agricultural Inputs Program,SERD,SEAE,03/27/1984,,,,,0.0,,150.0,,150.0
+1550,World Bank,1984,0704,,SOL,Guadalcanal Road Improvement,PARD,,11/06/1984,,,,,0.0,,2.0,,2.0
+1551,World Bank,1984,0707,,SAM,Development Bank of Western Samoa V,PARD,,11/15/1984,,,,,0.0,,2.0,,2.0
+1552,World Bank,1984,0712,,SRI,Plantation Sector,SARD,SAAE,12/04/1984,,,,,0.0,,55.0,,55.0
+1553,World Bank,1985,0739,,FIJ,Second Fiji Development Bank,PARD,,07/16/1985,,,,,0.0,,6.5,,6.5
+1555,World Bank,1985,0761,,PAK,Second Telecommunications,CWRD,,11/28/1985,,,,,0.0,,100.0,,100.0
+1556,World Bank,1985,0766,,VAN,Multi-Project,PARD,,12/05/1985,,,,,0.0,,2.0,,2.0
+1557,World Bank,1986,0793,,PAK,Karachi Urban Development,CWRD,,10/14/1986,,,,,0.0,,69.87,,69.87
+1558,World Bank,1986,0813,,SAM,Afulilo Hydroelectric,PARD,,12/14/1986,,,,,0.0,,3.0,,3.0
+1559,World Bank,1986,0824,,PAK,WAPDA Tenth Power (Sector),CWRD,,12/18/1986,,,,,0.0,,100.0,,100.0
+1560,World Bank,1987,0873,,SRI,Small and Medium Industries,SARD,,12/08/1987,,,,,0.0,,15.0,,15.0
+1561,World Bank,1988,0896,,SRI,Development Financing II,SARD,SAGF,08/04/1988,,,,,0.0,,40.0,,40.0
+1562,World Bank,1989,0943,,THA,Second Highway (Sector),SERD,,01/12/1989,,,,,0.0,,87.0,,87.0
+1563,World Bank,1989,0957,,PAK,Flood Damage Restoration,CWRD,SAAE,03/30/1989,,,,,0.0,,40.0,,40.0
+1564,World Bank,1989,0960,,SAM,Second Telecommunications,PARD,,06/01/1989,,,,,0.0,,4.6,,4.6
+1566,World Bank,1989,0990,,TON,Fourth Tonga Development Bank,PARD,,11/29/1989,,,,,0.0,,3.0,,3.0
+1567,World Bank,1989,0991,,PHI,Hopewell Energy (Phils.) Corp.,PSOD,,11/23/1989,,,,,0.0,,10.0,,10.0
+1568,World Bank,1989,1005,,FIJ,Low Income Housing Development,PARD,,12/21/1989,,,,,0.0,,16.2,,16.2
+1569,World Bank,1990,1036,,IND,Calcutta Electric Supply Co. Ltd. (CESC),SARD,,10/04/1990,,,,,0.0,,20.0,,20.0
+1570,World Bank,1990,1038,,SRI,Second Telecommunications,SARD,,10/18/1990,,,,,0.0,,58.0,,58.0
+1572,World Bank,1990,1045,,BAN,Food Crops Development Program,SARD,SAAE,11/06/1990,,,,,0.0,,75.0,,75.0
+1573,World Bank,1990,1065,,PHI,Avantex Mill Corporation,PSOD,,12/11/1990,,,,,0.0,,11.25,,11.25
+1574,World Bank,1990,1071,,BAN,Agriculture and Rural Credit,SARD,SAGF,11/01/1990,,,,,0.0,,50.0,,50.0
+1575,World Bank,1991,1084,,SRI,Second Small and Medium Industries,SARD,,05/30/1991,,,,,0.0,,45.0,,45.0
+1576,World Bank,1991,1098,,THA,Fourth Highway (Sector),SERD,SEID,09/17/1991,,,,,0.0,,87.0,,87.0
+1577,World Bank,1991,1109,,MON,Special Assistance,EARD,,10/29/1991,,,,,0.0,,30.0,,30.0
+1578,World Bank,1991,1117,,IND,Gandhar Field Development,SARD,,11/14/1991,,,,,0.0,,14.4,,14.4
+1579,World Bank,1991,1142,,IND,CESC Limited II,SARD,,12/13/1991,,,,,0.0,,32.0,,32.0
+1580,World Bank,1992,1151,,THA,Seventh Power Distribution,SERD,SEID,01/09/1992,,,,,0.0,,109.1,,109.1
+1581,World Bank,1992,1161,,IND,Power Efficiency (Sector),SARD,,11/01/1992,,,,,0.0,,265.0,,265.0
+1584,World Bank,1992,1172,,INO,Power XXII,SERD,SEID,08/04/1992,,,,,0.0,,357.8,,357.8
+1585,World Bank,1992,1176,,THA,Fifth Highway (Sector),SERD,,08/18/1992,,,,,0.0,,177.5,,177.5
+1586,World Bank,1992,1209,,PAK,Flood Damage Restoration (Sector),CWRD,SAAE,12/15/1992,,,,,0.0,,139.57,,139.57
+1587,World Bank,1993,1222,,IND,Gas Flaring Reduction,SARD,,03/30/1993,,,,,0.0,,450.0,,450.0
+1588,World Bank,1993,1225,,PNG,Population and Family Planning,PARD,,04/01/1993,,,,,0.0,6.9,,,6.9
+1589,World Bank,1993,1228,,SAM,Afulilo Hydroelectric (Supplementary),PARD,,04/22/1993,,,,,0.0,,1.0,,1.0
+1590,World Bank,1993,1230,,PHI,Hopewell Power (Philippines) Corp.,PSOD,PSOD,05/18/1993,,,,,0.0,,60.0,,60.0
+1591,World Bank,1993,1246,,THA,Eighth Power Distribution (Sector),SERD,SEID,08/19/1993,,,,,0.0,,110.8,,110.8
+1594,World Bank,1994,1301,,PAK,Social Action Program (Sector),CWRD,,06/23/1994,,,,,0.0,,200.0,,200.0
+1595,World Bank,1994,1331,,PHI,Women's Health & Safe Motherhood,SERD,SESS,11/10/1994,,,,,0.0,,18.0,,18.0
+1596,World Bank,1995,1390,,BAN,Nonformal Education,SARD,SASS,09/29/1995,,,,,0.0,,7.82,,7.82
+1597,World Bank,1995,1391,,THA,Second Regional Roads (Sector),SERD,SEID,09/29/1995,,,,,0.0,,150.0,,150.0
+1598,World Bank,1995,1398,,PHI,Northern Luzon Transmission & Generation,SERD,SEID,11/02/1995,,,,,0.0,,109.5,,109.5
+1599,World Bank,1995,1413,,PAK,National Drainage Program,CWRD,SAAE,12/12/1995,,,,,0.0,,285.0,,285.0
+1600,World Bank,1996,1424,,PAK,Ghazi-Barotha Hydropower,CWRD,SAEN,01/18/1996,,,,,0.0,,350.0,,350.0
+1601,World Bank,1996,1430,,NEP,Himal Power,PSOD,PSOD,11/01/1996,,,,,0.0,,32.1,,32.1
+1602,World Bank,1996,1433,,INO,Industrial Technology & Human Resources Dev.,SERD,,03/28/1996,,,,,0.0,,47.0,,47.0
+1603,World Bank,1996,1443,,KGZ,Power & District Heating Rehab.,CWRD,,06/06/1996,,,,,0.0,,17.2,,17.2
+1604,World Bank,1996,1460,,VIE,Population and Family Health,SERD,,09/19/1996,,,,,0.0,,44.59,,44.59
+1605,World Bank,1996,1493,,PAK,Social Action Program (Sector) Project II,CWRD,,11/28/1996,,,,,0.0,,250.0,,250.0
+1606,World Bank,1997,1582,,PRC,Northeast Power Transmission,EARD,EAEN,11/25/1997,,,,,0.0,,0.6,,0.6
+1607,World Bank,1997,1597,,BAN,Lafarge Surma Cement Ltd,PSOD,,12/18/1997,,,,,0.0,,50.0,,50.0
+1608,World Bank,1998,1603,,BAN,Grameenphone Telecommunications,PSOD,PSOD,11/01/1998,,,,,0.0,,31.6,,31.6
+1609,World Bank,1998,1606-1607,,PHI,Early Childhood Development,SERD,SESS,01/27/1998,,,,,0.0,,17.3,,17.3
+1610,World Bank,1999,1689,,SRI,South Asia Gateway Terminals (Private) Limited for the Colombo Port Development,PSOD,PSOD,05/11/1999,,,,,0.0,,35.0,,35.0
+1611,World Bank,1999,1727-1728,,REG,GMS: East-West Corridor (LAO and VIE),SERD,SEID,12/20/1999,,,,,0.0,,15.0,,15.0
+1612,World Bank,2000,1743,,MON,Second Financial Sector Program,EARD,EAGF,06/22/2000,,,,,0.0,,32.0,,32.0
+1613,World Bank,2000,1769,,PHI,North Luzon Expressway Rehabilitation and Expansion,PSOD,PSOD,10/26/2000,,,,,0.0,,45.0,,45.0
+1614,World Bank,2001,1827,,VIE,RMIT International University in Viet Nam,PSOD,PSG,04/26/2001,,,,,0.0,,7.5,,7.5
+1615,World Bank,2001,1857,,VIE,Far East Medical Viet Nam Ltd.,PSOD,PSOD,11/13/2001,,,,,0.0,,10.0,,10.0
+1617,World Bank,2002,1975,,IND,Medical Service Network,PSOD,PSIF,12/17/2002,,,,,0.0,,20.0,,20.0
+1620,World Bank,2004,2078,,BAN,Grameen Phone Telecommunications Expansion,PSOD,PSIF,01/26/2004,,,,,0.0,,30.0,,30.0
+1623,World Bank,2004,2091/7201,,AFG,Afghanistan Investment Guarantee Facility,PSOD,PSOP,09/24/2004,,,,,0.0,,5.0,,5.0
+1624,World Bank,2004,2123,,VIE,Support to Implementation of Poverty Reduction Program,SERD,VRM,12/09/2004,,,,,0.0,,100.0,,100.0
+1626,World Bank,2004,2155,,PHI,National Home Mortgage Finance Corporation's Portfolio of Non-Performing Loans,SERD,,11/17/2004,,,,,0.0,,40.6,,40.6
+1628,World Bank,2005,2194,,VIE,Support to Implementation on Poverty Reduction Program II,SERD,VRM,11/03/2005,,,,,0.0,,100.0,,100.0
+1629,World Bank,2005,2228,,INO,Development Policy Support Program,SERD,IRM,12/21/2005,,,,,0.0,,400.0,,400.0
+1630,World Bank,2006,2262,,VIE,Support the Implementation of Poverty Reduction Program III,SERD,VRM,10/05/2006,,,,,0.0,,100.0,,100.0
+1631,World Bank,2007,2352,,VIE,Support the Implementation of Poverty Reduction Program IV,SERD,VRM,10/02/2007,,,,,0.0,,175.0,,175.0
+1632,World Bank,2008,2405/7273,,PHI,Masinloc Power Partners Company Limited,PSOD,PSIF2,01/15/2008,,,,,0.0,,250.0,,250.0
+1634,World Bank,2008,2419/7276,,IND,Mundra Ultra Mega Power,PSOD,PSIF1,04/17/2008,,,,,0.0,,450.0,,450.0
+1635,World Bank,2008,2475,,INO,Infrastructure Reform Sector Development Program - Subprogram 2,SERD,IRM,11/27/2008,,,,,0.0,,200.0,,200.0
+1636,World Bank,2008,2488,,INO,Fourth Development Policy Support Program,SERD,IRM,12/16/2008,,,,,0.0,,750.0,,750.0
+1637,World Bank,2009,2505/7291,,PRC,Small Hydropower Development,PSOD,PSIF2,01/13/2009,,,,,0.0,,51.25,,51.25
+1644,World Bank,2010,2722,,PAK,Uch II Power,PSOD,PSIF1,12/13/2010,,,,,0.0,,100.0,,100.0

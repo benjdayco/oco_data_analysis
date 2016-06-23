@@ -4,11 +4,87 @@
 		"selected_items":
 		[
 			[
-				"appr",
-				"approval_number_split"
+				"cos",
+				"coms_proj_no"
+			],
+			[
+				"com",
+				"coms_project_fields"
+			],
+			[
+				"as",
+				"astype"
+			],
+			[
+				"co",
+				"coms_proj_no"
+			],
+			[
+				"coms_",
+				"coms_project_title"
+			],
+			[
+				"con",
+				"cofin_coms_projects"
+			],
+			[
+				"pd",
+				"pd"
+			],
+			[
+				"data",
+				"data_files"
+			],
+			[
+				"appo",
+				"approval_number"
+			],
+			[
+				"pr",
+				"project_title"
+			],
+			[
+				"coms",
+				"coms_project_title"
+			],
+			[
+				"c",
+				"cofin_projects_not_in_coms_sample"
+			],
+			[
+				"coms_p",
+				"coms_proj_no"
+			],
+			[
+				"proj_",
+				"proj_title"
+			],
+			[
+				"pro",
+				"proj_no"
 			],
 			[
 				"app",
+				"approval_number"
+			],
+			[
+				"print",
+				"cofin_prsoject_distinct_approval_number"
+			],
+			[
+				"cofin_projects",
+				"cofin_projects"
+			],
+			[
+				"approv",
+				"approval_number"
+			],
+			[
+				"cofi",
+				"cofin_grants_loans_proc_data"
+			],
+			[
+				"appr",
 				"approval_number_split"
 			],
 			[
@@ -22,28 +98,16 @@
 			[
 				"s",
 				"shifted_forward"
-			],
-			[
-				"data",
-				"data_copy"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "cofin_separate_approval_numbers.py",
+			"file": "cofin_projects_with_coms_products.py",
 			"settings":
 			{
-				"buffer_size": 1662,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "data_files/data_dump_cofinanced_loans-grants.csv",
-			"settings":
-			{
-				"buffer_size": 162825,
+				"buffer_size": 2396,
 				"line_ending": "Unix"
 			}
 		}
@@ -51,7 +115,7 @@
 	"build_system": "Packages/Python/Python.sublime-build",
 	"command_palette":
 	{
-		"height": 306.0,
+		"height": 33.0,
 		"selected_items":
 		[
 		],
@@ -72,19 +136,47 @@
 	},
 	"file_history":
 	[
+		"/home/erik/Code/OCO/cofin_clean_up_separate_approval_numbers.py",
+		"/home/erik/Code/OCO/cofin_projects_with_coms_products.py",
+		"/home/erik/Code/OCO/cofin_not_in_coms.py",
+		"/home/erik/Code/OCO/cofin_projects_in_coms.py",
+		"/home/erik/Code/OCO/cofin_coms_project_relationship.py",
+		"/home/erik/Code/OCO/cofin_clean_up_prepare_for_coms_comparison.py",
+		"/home/erik/Code/OCO/data_files/cofin_grants_loans_data_for_coms.csv",
+		"/home/erik/Code/OCO/cofin_clean-up_exrtract_odd_approval_numbers_all.py",
+		"/home/erik/Code/OCO/cofin_loan_grants_2007_clean_proj_no.py",
+		"/home/erik/Code/OCO/loan_grants_extract_2007_to_current.py",
+		"/usr/local/lib/python2.7/dist-packages/pandas/core/common.py",
+		"/usr/local/lib/python2.7/dist-packages/pandas/core/internals.py",
+		"/home/erik/Code/OCO/cofin_clean-up.py",
+		"/home/erik/Code/OCO/data_files/cofin loan grants with year-2-18-2016.csv",
+		"/home/erik/Code/OCO/cofin_clean-up_exrtract_clean_approval_numbers.py",
+		"/home/erik/Code/OCO/cofin_clean-up-stacking.py",
+		"/home/erik/Code/OCO/data_files/cofin_grant_loans_clean_approval_no_2007.csv",
+		"/media/Data/Dropbox/Code/OCO/cofin_clean-up-stacking.py",
+		"/home/erik/Code/OCO/data_files/cofin_grant_loans_odd_approval_no_all.csv",
+		"/home/erik/Code/OCO/README.md",
+		"/home/erik/Code/OCO/data_files/all_psc.csv",
+		"/home/erik/Code/OCO/data_files/all_coms_projects.csv",
+		"/home/erik/Code/OCO/cofin_ta_grant_null_approval_number.py",
+		"/home/erik/Code/OCO/cofin_coms.py",
+		"/home/erik/Code/OCO/cofin_coms_scratch.py",
+		"/home/erik/Code/OCO/cofin_coms_copy.py",
+		"/home/erik/Code/OCO/test.py",
+		"/home/erik/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/erik/Code/OCO/cofin_clean-up_exrtract_odd_approval_numbers.py",
+		"/home/erik/Code/OCO/cofin_separate_approval_numbers.py",
+		"/home/erik/Code/OCO/data_files/cofin_grant_loans_null_proj_no",
+		"/home/erik/Code/OCO/loan_grants_extract_rows_with_null.py",
+		"/home/erik/Code/OCO/data_files/cofin_grants_loan_from_2007_without_null.csv",
+		"/home/erik/Code/OCO/data_files/cofin_grants_extracted_approval_numbers.csv",
+		"/home/erik/Code/OCO/data_files/data_dump_cofinanced_loans-grants.csv",
 		"/home/erik/Code/OCO/scratch.py",
 		"/home/erik/Code/OCO/data_files/test_data.csv",
-		"/home/erik/Code/OCO/data_files/data_dump_cofinanced_loans-grants.csv",
-		"/home/erik/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
-		"/home/erik/Code/OCO/cofin_clean-up.py",
 		"/home/erik/Code/OCO/OCO.sublime-workspace",
-		"/home/erik/Code/OCO/cofin_ta_grant_null_approval_number.py",
 		"/home/erik/Code/OCO/ta_describe.py",
 		"/home/erik/Code/OCO/loan_grants_describe.py",
-		"/home/erik/Code/OCO/data_files/cofin_grants_loan_from_2007_without_null.csv",
 		"/home/erik/Code/OCO/data_files/cofin_grants_loan_from_2007.csv",
-		"/home/erik/Code/OCO/loan_grants_extract_rows_with_null.py",
-		"/home/erik/Code/OCO/loan_grants_extract_2007_to_current.py",
 		"/home/erik/Code/OCO/data_files/cofin_grants_loans.csv",
 		"/media/erik/Data/Dropbox/Code/OCO/data_files/cofin_grants_loans.csv",
 		"/media/erik/Data/Dropbox/Code/OCO/loan_grants_correct_integer.py",
@@ -108,7 +200,7 @@
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -122,6 +214,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"buid"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -143,53 +236,26 @@
 			[
 				{
 					"buffer": 0,
-					"file": "cofin_separate_approval_numbers.py",
+					"file": "cofin_projects_with_coms_products.py",
 					"settings":
 					{
-						"buffer_size": 1662,
+						"buffer_size": 2396,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1613,
-								1613
+								2395,
+								2395
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Python/Python.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 415.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "data_files/data_dump_cofinanced_loans-grants.csv",
-					"settings":
-					{
-						"buffer_size": 162825,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								30,
-								30
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 373.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -230,7 +296,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 439.0
+		"height": 444.0
 	},
 	"replace":
 	{
@@ -257,6 +323,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 437.0,
+	"side_bar_width": 406.0,
 	"status_bar_visible": true
 }
