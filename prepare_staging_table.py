@@ -30,6 +30,9 @@ for index,row in cofin_grant_loans_all.iterrows():
     approval_number_split =  approval_number_orig.split("/")
     cofin_grant_loans_all['Anchor Product'][index] = str(approval_number_split[0])
 
-cofin_grant_loans_all.to_csv("data_files/cofin_grants_loans_dump_with_anchor_6-22-2016.csv")
 
 print "Done!"
+
+cofin_grant_loans_all.to_csv("data_files/cofin_grants_loans_dump_with_anchor_6-22-2016.csv")
+cofin_grant_loans_all[cofin_grant_loans_all['Admin Arrangement'] == 'Collaborative'].to_csv("data_files/cofin_grants_loans_staging_collab_6-22-16.csv")
+
